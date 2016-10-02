@@ -3,5 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+*Arctic Fox* is a lightweight and customisable Jekyll Theme.
 
-**Thinkspace** is just another minimalist Jekyll theme that focuses on technical writing. Designed for engineers to write their ranting and findings.
+* Author: Camille Diez
+* Github: http://github.com/diezcami
+* Portfolio: http://diezcami.github.io
