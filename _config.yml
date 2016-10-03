@@ -1,12 +1,12 @@
 # Site settings
-title: HarryLiuXin
+title: HarryLiuXin_To_be_a_romantic_scientist
 email: x399liu@uwaterloo.ca
 description: > # this means to ignore newlines until "baseurl:"
   To be a romantic scientist.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://harryliuxin.github.io" # the base hostname & protocol for your site
-twitter_username: username
-github_username: username
+twitter_username: x399liu
+github_username: harryliuxin
 
 # Build settings
 markdown: kramdown
