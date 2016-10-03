@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Arctic Fox* is a lightweight and customisable Jekyll Theme.
+**HarryLiuXin** a simple and clean ThinkSpace.
 
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+* Master: LiuXin
+* Github: http://github.com/Harryliuxin
+* Project: www.nano-er.com
