@@ -1,8 +1,7 @@
 # Site settings
-title: HarryLiuXin__To be a romantic scientist
+title: HarryLiuXin
 email: x399liu@uwaterloo.ca
-description: > # this means to ignore newlines until "baseurl:"
-  To be a romantic scientist.
+description: To be a romantic scientist. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://harryliuxin.github.io" # the base hostname & protocol for your site
 twitter_username: x399liu
