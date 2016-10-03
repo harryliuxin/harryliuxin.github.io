@@ -5,7 +5,6 @@ date: 2015-05-25
 categories:
 ---
 
-Arctic Fox supports GFM!
 The following text has been taken from [this page](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet).
 
 # H1
