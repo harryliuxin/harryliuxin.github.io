@@ -72,17 +72,17 @@ h6 {
 /* Links
  * ============================================== */
 a {
-  color: #009fd5;
+  color: #00c496;
   text-decoration: none; }
   a:hover {
-    color: #00B2EE;
+    color: #00DDAA;
     text-decoration: none; }
 
 /* Block Quotes
  * ============================================== */
 blockquote {
   color: #BBB;
-  border-left: 4px solid #00B2EE;
+  border-left: 4px solid #00DDAA;
   padding-left: 15px;
   font-size: 17px;
   letter-spacing: -1px;
@@ -169,7 +169,7 @@ table {
   width: 100%; }
 
 .site-header a {
-  color: #00B2EE; }
+  color: #00DDAA; }
 
 .site-nav {
   padding-top: 16px;
