@@ -1,13 +1,13 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
+title: Harry Liu Xin
+description: My dream is to be a romantic scientist.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.liuxin.in" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
+username: Harry Liu
+user_description: My dream is to be a romantic scientist.
+email: x399liu@uwaterloo.ca
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
