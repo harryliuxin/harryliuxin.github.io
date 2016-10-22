@@ -1,88 +1,121 @@
 ---
 layout: post
-title: "#1 - Por que usar SVG?"
+title: "Time Lapse"
 date: 2015-01-08 08:39:47
-description: "O SVG finalmente começa dar o ar das graças e você vai saber aqui o porquê disso."
+description: "延时摄影"
 main-class: 'svg'
 color: '#7D669E'
 tags:
-- svg
-- frontend
-- trend
-- "dicarapida"
+- photography
 image: "bg.jpg"
 categories:
-- "O mundo mágico do SVG"
-twitter_text: "Por que você deveria estar usando SVG?"
-introduction: "Alguns motivos para se usar SVG no seu workflow e alguns exemplos bem bacanas de como outros já utilizam."
+- "摄影"
+twitter_text: "延时摄影"
+introduction: "延时摄影"
 ---
 
-## Meu histórico
+准备
+定时控制器
+佳能的用户表示比较坑爹，你需要购买一个。。而尼康的用户们，你们的相机自己就配置了这个神奇的功能。
+用高清摄像机正常拍后期加快，有两个劣势：
 
-Muita gente sabe que eu ❤ SVG e que venho tentado evangelizar de todas as formas essa tecnologia em todo lugar que eu passo. Meu primeiro trabalho foi a [Awesome-SVG](https://github.com/willianjusten/awesome-svg), que pode não parecer, mas deu um trabalho do caramba juntar todo conteúdo possível desse assunto, organizar, separar e ainda manter atualizado.
+1、由于视频是每秒30帧，所以快门速度降不下来、既然快门速度降不下，几十分之一秒的速度得配合很高很高的iso才能看到星星。画面看不到星星，看到的是噪点。
+2、画质没有静态照片好
 
-Essa semana eu e meu amigo [Lucas Maia](https://github.com/lucasmaiaesilva) lançamos a tradução do [SVG Pocket Guide](http://svgpocketguide.com/) e que inclusive está [open source](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide-ptbr.md) (Viu algum erro? Manda um Pull Request! É difícil fazer tudo sem nenhum errinho xD).
+用单反当然是
+1、拍得到
+2、画质好
 
-Também palestrei no [Front in Bahia 2014](http://www.frontinbahia.com.br/) para substituir nosso amigo [Wilson Mendes](https://twitter.com/willmendesneto) que infelizmente não pôde participar. E foi lá que eu resolvi que iria contribuir mais com a comunidade, foi uma experiência tão boa e os feedbacks tão incríveis, que agora não quero mais parar =)
+见过老外用一种小型的电动轨道，用可用两个三脚架支起来，用电机带动云台慢速移动。小型化轻量化的VDSLR让这样的野外单人作业成为了可能。
 
-Depois de ter feito essas coisas, algumas pessoas já ligam SVG a minha pessoa, como o Suissa diz: "o piá do SVG". E aí com isso, sempre recebo muitas perguntas e a principal delas é:
+连接三脚架与相机的物件叫做 快装板。因此当你拥有多个云台或者三脚架的时候，请尽量购买采用同样快装板结构的云台或三脚架，这样，你就不用在固定相机，调整位置上耽误很多时间了。比较知名的牌子有：Manfrotto（曼富图）、百诺，等等。
 
-## Por que usar SVG?
+ND 滤镜（可选部件）
 
-Bom, pretendo fazer desse post, uma série sobre SVG, então serei bastante breve nesse post e só mostrar alguns dos motivos, se depois de todos eles, você não se interessar...<s>Posso fazer nada</s>
+ND滤镜其实就是一片黑色的透明玻璃片，它的作用就是减少单位时间内进入镜头的光量。
 
-### Rico em Detalhes e Cores
+结合使用ND滤镜，在白天拍摄，也可以进行长时间曝光，从而产生模糊的效果，比如模糊的人群，潺潺的流水。
 
-![Coração feito de ícones coloridos](/assets/img/por-que-usar-svg/coloridos.jpg)
+如果你喜欢的话，可以试试保罗这个牌子。
 
-Fonte: [Designmodo](http://designmodo.com/flat/)
+1.选择拍摄主题
+拍摄云的延时摄影应该算的上是一个经典案例了，而且我也建议把它作为你的第一个拍摄对象。但是，如果你没有把它作为背景素材合成在一个影片中，这段素材看起来将会非常无聊。
 
-### Interativo e Estilizável via CSS
+2.使用三脚架
 
-![Ícone de uma lâmpada](/assets/img/por-que-usar-svg/animacao.gif)
+在拍摄的时候可以多次按动INFO按钮来查看各项参数，通过调整三脚架的长度来调整构图。
 
-Fonte: [tutsplus](http://tutsplus.github.io/Styling-Iconic/styling/index.html)
+大部分人在后期可能会实用软件来进行位移调整，所以在前期构图的时候要注意调整。
 
-### Responsivo
+三、准备按下快门
 
-![Imagem de uma logo em vários tamanhos](/assets/img/por-que-usar-svg/responsivo.png)
+第一件事情就是格式化你的存储卡，当你在一段时间内拍摄那么多照片，格式化不但能保证空间的重组，更能使当地提高读取速度。
 
-Fonte: [Codrops](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
+1、选择拍摄的格式：RAW、JPG还是都需要?!
 
-### Animações de alto nível
+如果你选择了RAW格式，相机所生成的高清晰图像将会很快就占满你的存储卡。
 
-![Animação desenhando uns frascos](/assets/img/por-que-usar-svg/animacao-2.gif)
+如果你选择了JPG图像，则会帮你节省60%的空间，同样的卡可以拍摄多得多的照片。
 
-Fonte: [Panizzon](http://panizzon.ind.br/)
+如果这是你第一次拍摄延时摄影，我想你大概不想牺牲画质，所以你很可能选择RAW格式。
 
-### Perfeito para representação Gráfica
+比如在Canon 7D中，使用RAW格式将会产生5184×3456分辨率的图像文件。如果你的项目工程是Full HD标准（分辨率为1920 × 1080），也就意味着每帧画面将会超过两百万像素。
 
-![Gráfico](/assets/img/por-que-usar-svg/grafico.png)
+所以使用RAW拍摄意味着：
 
-Fonte: [D3 example](http://bl.ocks.org/Caged/6476579)
+- 后期调整的范围比较大
+- 渲染的时候将会花费更多的时间将RAW转换为JPG
+-  需要调整图像大小以适应全高清画面的长宽比
 
-### Efeitos e Filtros
+一般视频都会被压缩为24或25帧每秒，一分钟的视频将会产生1500张的图像，处理和渲染将会很慢，如果不是商业制作，很可能会要了你的命。。。所以选不选RAW完全取决于你的作品面向的人群。
 
-![Uma imagem com diferentes efeitos](/assets/img/por-que-usar-svg/filtros.png)
+2、sRAW+sJPG 最佳折中的方法？
 
-Fonte: [Web Platform](http://docs.webplatform.org/wiki/svg/tutorials/smarter_svg_filters)
+一旦当你已经对熟练掌握的一些基础理论，在创作中，你将会对作品的质量有更高的要求，因此，为了又有一个好的画质，有不会严重拖慢后期制作的速度，我们建议使用即拍摄sJPG又保留sRAW的模式。
 
-### Mais qualidades?
+在Canon 5D MarkII、Canon 7D等机身中，你可以使用低画质RAW模式，比如使用450万像素的文件替代1800万像素的文件。这样的好处有：
 
-* [Boa Compatibilidade](http://caniuse.com/#search=svg)
-* Podem ser minificados (Gzip)
-* [Maior Acessibilidade](http://www.sitepoint.com/tips-accessible-svg/)
-* Elementos de DOM para serem editados separadamente
-* É tudo código!! =)
+- 轻便的RAW文件可以节省2/3的空间，可以保存更多的图像。
+-  依然拥有很大的调节范围
+- 渲染的时候更快
 
-### Concluindo...
-
-Sabia de tudo? Se sabia porque não está usando?? Se está usando, se mostre! Contribue! Me chama no [twitter](http://twitter.com/Willian_justen), manda um Pull Request na [awesome-svg](https://github.com/willianjusten/awesome-svg), faz o caralho a 4 cara!
-
-Deixo para vocês uma última imagem e um link falando sobre quais as tendências de 2015, advinha quem aparece para caramba lá :p
-
-![SVG Trends](https://ihatetomatoes.net/wp-content/uploads/2014/12/img_assets_svg.jpg)
-
-[Design Trends de 2015](http://foundersgrid.com/design-trends-2015)
+sRAW + sJPG 意味着你被次拍摄将会产生两个文件，sRAW有着强大地可调选项，而sJPG可以帮你快速生成视频预览，而这样的模式可以节省很多的磁盘空间。
 
 
+3、使用实时预览与对焦点
+
+如果你的相机还不错，我们建议你使用它的实时预览功能，在延时摄影中，这个功能是很实用的。
+
+比如在Canon 7D机身的右上角，有两个小按钮，你可以通过控制它来放大缩小画面比例，从而达到可以细致跟焦的目的，一单找到了正确的对焦点，请务必确认你已经将把镜头的对焦系统从AF模式调节至MF模式。
+
+这样你也就不用在对焦上耽误很多时间了，同样的，也能帮你省很多电。当然平时你要多加练习，对每一个镜头的焦点偏移量（跑焦）做到心中有数，当然最重要的还是要对快门速度以及光圈的组合在不同环境下产生的曝光效果要有概念，新手建议从相机的AV/TV模式开始，然后结合相机的测算值，再到M档中进行细致调节。这样在未来的正式拍摄中，才会做到对焦精准，曝光正确。
+
+
+4、选择正确的拍摄模式
+
+下面，我们一起来学习一下关于相机的基本设置，以防止你再拍摄的时候选择了错误的设置：
+
+- 选择纯手动模式，或者是光圈优先模式
+-  根据环境的不同，选择一个合适的ISO值（例如：晴天100、夜晚400、黑夜640.仅供参考）。切忌设置为自动档！
+- 光圈和快门速度都是需要调节的（光圈优先只能调节光圈）
+- 选择一个合适的白平衡预设，或者手动设定K值（色温），切忌使用自动档！
+- 请把镜头的对焦模式调节至MF（手动对焦）
+
+这样设置完，就可以有效地避免抖动与闪烁，如果你还有兴许了解更多关于闪烁的问题，可以继续道高级教程区学习。
+
+接下来，让我们再去了解一下关于快门速度。
+
+
+5、快门光圈定成败
+
+首先，在决定所有的参数之前，请先决定好你想要的景深是什么样的。
+
+对于延时摄影来说，对画面效果影响最明显的就是快门速度，快门速度越高（比如快于1/125）画面中物体所呈现出来的流动感就越差。
+
+有很多人建议把快门速度设置成两张照片间隔的一般，比如我的拍摄间隔为4秒，那么我的快门就大概设置为1.6或者2秒。当然这个规则也不适用于所有情况，比如你从早到晚，每隔一个小时拍摄一张………………
+
+如果在你拍摄的场景中出现了人群、车流，那么请确定它们都已经模糊掉了（注意，是模糊而不是没对上焦）。在它们的身后应还有一条条“丝带”。
+
+比较繁琐的一件事情就是我们建议你要定期的去检查一下回看，确定中途没有问题。
+
+如果你是在白天拍摄，上面的建议可能就要作废了，这个时候就果断把ISO调至100甚至更小，如果你还想拍摄出“流体”的感觉，这个时候就务必调小你的光圈，比如F16之类的，必要的时候，还要添加一片儿ND滤镜！
