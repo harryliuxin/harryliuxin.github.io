@@ -10,7 +10,7 @@ tags:
 - frontend
 - trend
 - "dicarapida"
-image: "/assets/img/bg.jpg"
+image: "bg.jpg"
 categories:
 - "O mundo mágico do SVG"
 twitter_text: "Por que você deveria estar usando SVG?"
