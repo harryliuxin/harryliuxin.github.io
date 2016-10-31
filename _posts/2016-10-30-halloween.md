@@ -4,7 +4,8 @@ title: Halloween dressing up [comic strip]
 date: 2016-10-30
 main-class: 'misc'
 tags: [ 'comic strip' ]
-introduction: '漫画——我的万圣节装扮'
+introduction:'漫画——《我的万圣节装扮》'
+description:'漫画——《我的万圣节装扮》'
 ---
 ![1](http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9bd4jfx10j20kv0kt76h.jpg)
 ![2](http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9bd4lb5p2j20fc0o9q4x.jpg)
