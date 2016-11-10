@@ -1114,32 +1114,23 @@ introduction: &ldquo;D3.js学习笔记4&ndash;第一个例子&rdquo;</li>
 </ul>
 <hr />
 <p><body> <br />
-<p>Apple</p><br />
-<p id="myid">Pear</p><br />
-<p>Banana</p></p>
-<script src="https://d3js.org/d3.v4.min.js"></script>
-
-<script>
-var p2 = d3.select("body").select("#myid");
-p2.style("color","red");
-var width = 300;    //画布的宽度
-var height = 300;   //画布的高度
-var svg = d3.select("body").append("svg").attr("width", width).attr("height", height);
-var dataset = [ 250 , 210 , 170 , 130 , 90 ];
-var rectHeight = 25;
-svg.selectAll("rect")
-          .data(dataset)
-          .enter()
-          .append("rect")
-          .attr("x",20)
-          .attr("y",function(d,i){
-                return i * rectHeight;
-          })
-          .attr("width",function(d){
-                return d;
-          })
-          .attr("height",rectHeight-2)
-          .attr("fill","steelblue");
-</script>
-
-<p></body> </p></article></body></html>
+<p><svg width="720" height="120"></svg><br />
+<script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script><br />
+<script><br />
+var dataset = [ 250 , 210 , 170 , 130 , 90 ];<br />
+var rectHeight = 25;<br />
+svg.selectAll(&ldquo;rect&rdquo;)<br />
+          .data(dataset)<br />
+          .enter()<br />
+          .append(&ldquo;rect&rdquo;)<br />
+          .attr(&ldquo;x&rdquo;,20)<br />
+          .attr(&ldquo;y&rdquo;,function(d,i){<br />
+                return i * rectHeight;<br />
+          })<br />
+          .attr(&ldquo;width&rdquo;,function(d){<br />
+                return d;<br />
+          })<br />
+          .attr(&ldquo;height&rdquo;,rectHeight-2)<br />
+          .attr(&ldquo;fill&rdquo;,&rdquo;steelblue&rdquo;);<br />
+</script><br />
+</body> </p></article></body></html>
