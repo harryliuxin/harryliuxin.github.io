@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Formatting Samples"
-date: 2015-05-25
-description: "延时摄影"
+date: 2016-02-01
+description: "样式示例"
 main-class: 'svg'
 color: '#7D669E'
 tags:
