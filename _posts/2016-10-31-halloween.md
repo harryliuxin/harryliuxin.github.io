@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Halloween dressing up [comic strip]
-date: 2016-10-30
+date: 2016-10-31
 main-class: 'misc'
 tags: [ 'comic strip' ]
 description: "漫画——《我的万圣节装扮》"
