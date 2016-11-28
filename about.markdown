@@ -3,29 +3,21 @@ title: about
 layout: page
 ---
 
-a
-
-> Minimalist | Appleist | Unixer | Coder
-
-who involved in 
-
-> [github](https://github.com/waynezhang)
-
-mail 
-
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
-
-or follow 
-
-> [@o_lll](https://twitter.com/#!/o_lll)
-
-to reach me
-
 <img itemprop="image" class="img-rounded" src="/assets/img/blog-author.jpg" alt="Willian Justen">
 
 <h2>About Me</h2>
 
 <p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
+
+mail 
+
+> 15514657777@163.com | x399liu@uwaterloo.ca 
+
+or follow 
+
+> [陆小寻同学](http://weibo.com/2377304267/profile?topnav=1&wvr=6&is_all=1)
+
+to reach me
 
  <h2> 喜欢摄影</h2>
 
