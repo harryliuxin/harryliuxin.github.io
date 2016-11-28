@@ -1,42 +1,27 @@
-# Site settings
-title: Harry Liu Xin
-description: My dream is to be a romantic scientist.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.liuxin.in" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+markdown: rdiscount
+highlighter: pygments
+permalink: /:year/:month/:day/:title.html
+name: "rusty shutter"
+markdown: rdiscount
 
-# User settings
-username: Harry Liu
-user_description: My dream is to be a romantic scientist.
-email: x399liu@uwaterloo.ca
-twitter_username: x399liu
-github_username:  harryliuxin
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+author: "liuxin"
+atom-baseurl: "http://liuxin.in"
+disqus: "gopherwood"
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: /:title/
-
-
-# html minify
-compress_html:
-  clippings: all
-  comments: all
-  endings: []
-  profile: false
-
-# Links to include in menu navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: Series
-    url: /series
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
   - title: Tags
-    url: /tags
-  - title: About Me
-    url: /about
+    class: fa fa-tags
+    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html
+  - title: Gallery
+    class: fa fa-film
+    href: http://foto.lhzhang.com
+  - title: Subscribe
+    class: fa fa-rss
+    href: /atom.xml
 
-# exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
