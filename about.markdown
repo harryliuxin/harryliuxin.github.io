@@ -3,21 +3,13 @@ title: about
 layout: page
 ---
 
-<img itemprop="image" class="img-rounded" src="/media/author.jpg" alt="Willian Justen">
-
-<h2>About Me</h2>
+![123](http://ww3.sinaimg.cn/mw690/8db2c8cbgw1fa466w9znwj20qo0u5jtw.jpg)
 
 <p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
 
 mail 
 
 > 15514657777@163.com | x399liu@uwaterloo.ca 
-
-or follow 
-
-> [陆小寻同学](http://weibo.com/2377304267/profile?topnav=1&wvr=6&is_all=1)
-
-to reach me
 
  <h2> 喜欢摄影</h2>
 
