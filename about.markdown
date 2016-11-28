@@ -3,7 +3,7 @@ title: about
 layout: page
 ---
 
-<img itemprop="image" class="img-rounded" src="/assets/img/blog-author.jpg" alt="Willian Justen">
+<img itemprop="image" class="img-rounded" src="/media/author.jpg" alt="Willian Justen">
 
 <h2>About Me</h2>
 
