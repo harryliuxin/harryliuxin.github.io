@@ -3,7 +3,7 @@ title: about
 layout: page
 ---
 
-![123](http://ww3.sinaimg.cn/mw690/8db2c8cbgw1fa466w9znwj20qo0u5jtw.jpg)
+<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1fa466w9znwj20qo0u5jtw.jpg" width = "300" height = "200" alt="liuxin" align=center />
 
 <p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
 
