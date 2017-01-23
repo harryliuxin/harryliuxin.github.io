@@ -1,42 +1,80 @@
 ---
 layout: life
-title: 关于刀刀亮
+title: 关于刘鑫 XIN LIU
 duoshuo: true
 date: 2014-10-18
 ---
 
-> 
-喜欢研究计算机世界的运行原理，喜欢信息透明的可视化，喜欢通过coding来表达我对这个世界的看法，喜欢在听着王菲的粤语歌创作代码。
+<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1fa466w9znwj20qo0u5jtw.jpg" width = "190" height = "230" alt="liuxin" />
+
+<p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
+
+mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca` 
 
 
-* 你或许可以联系到我:
+<h2> 喜欢摄影</h2>
 
-> <i class="fa  fa-user"></i> 邮箱: [daodaoliang@yeah.net](mailto:daodaoliang@yeah.net)
-
-******
-
-我曾七次鄙视我的灵魂(纪伯伦)
-
-* 第一次，当它本可进取时，却故作谦卑； 
-
-* 第二次，当它在空虚时，用爱欲来填充；
-
-* 第三次，在困难和容易之间，它选择了容易； 
-
-* 第四次，它犯了错，却借由别人也会犯错来宽慰自己；
-
-* 第五次，它[自由][1]软弱，却把它认为是生命的[坚韧][2]； 
-
-* 第六次，当它鄙夷一张丑恶的嘴脸时，却不知那正是自己面具中的一副； 
-
-* 第七次，它侧身于生活的污泥中，虽不甘心，却又畏首畏尾。
-
-******
-
-![daodaoliang](/res/img/blog/daodaoliang.jpg)
+<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1zjvo4j20q90higqh.jpg" />
+<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1uehx2j20q90hiap2.jpg" />
+<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu1t93tdj20q90hitit.jpg" />
+<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1vfp9cj20q90hi787.jpg" />
+<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1wgduqj20q90hin16.jpg" />
+<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1vxt9tj20q90hiq6p.jpg" />
+<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f91oao6j7yj21kw11x4dd.jpg" />
+<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu1rpkydj20q90hidki.jpg" />
+<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f4mu1r8pdmj20q90hin1g.jpg" />
+<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1qtpjqj20q90hijux.jpg" />
+<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1ol153j20wt0lv0zv.jpg" />
+<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f4mu1mszz0j20q90hijwi.jpg" />
+<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1m30j5j20q90hidkr.jpg" />
+<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu25ykqbj20q913etdt.jpg" />
+<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f91oagg11uj21kw2dcnp3.jpg" />
 
 
-[1]:/page/daodaoliang.html
-[2]:/res/download/daodaoliang.pdf
+
+ <h2> 喜欢吉他</h2>
+
+<iframe width="760px" height="500px" src="https://sway.com/s/RUcEizqz03GJxRmX/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
+
+ <h2> 喜欢篮球</h2>
+
+<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f91q0elykhj20im0agdhr.jpg" />
+<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f91q0cz3ddj20zk0qodjy.jpg" />
+ 
+ <h2> 喜欢设计</h2>
+
+<iframe width="760px" height="500px" src="https://sway.com/s/8CsBDymPwIEAei84/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
+
+<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0bydgb8j20yf1cqtwe.jpg" />
+<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f9b0bu1y0qj20yf1cqqrh.jpg" />
+<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0x12rqpj21cq0yf15j.jpg" />
+<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f9b0x3v9g0j21cq0yfqe4.jpg" />
+<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0x8hzd3j21cq0yftp2.jpg" />
+<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0xb4p0rj21cq0yf44b.jpg" />
+<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0uk523cj20yf1cqqii.jpg" />
+<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0uptfr6j21kw29xu0x.jpg" />
+<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f9b0uuft9wj21kw29xx6g.jpg" />
+<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f9b0xdu7zuj20sv150tm0.jpg" />
+<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0udh6lyj20sv151wz1.jpg" />
+<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0uyu2pqj20qo0jxmz5.jpg" />
+<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f9b0uwnwgpj20jw0qogos.jpg" />
+
+ <h2> 喜欢视频制作</h2>
+
+<iframe width="760px" height="500px" src="https://sway.com/s/kLIYRTg8Gd2i5Tzf/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
+
+ <h2> 不喜欢填坑</h2>
+
+<p>嘻嘻，开玩笑啦～ 考完试我就把这个网站写完</p>
+
+<h2>Projects</h2>
+
+<ul>
+	<li><a href="https://nano-er.com/">www.nano-er.com</a></li>
+	<li><a href="https://liuxin.in/">www.liuxin.in</a></li>
+</ul>
+
+![liuxin](/res/img/blog/liuxin.jpg)
+
 
 
