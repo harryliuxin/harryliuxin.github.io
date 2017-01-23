@@ -4,8 +4,7 @@ title: 关于刘鑫 XIN LIU
 duoshuo: true
 date: 2014-10-18
 ---
-
-<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1fa466w9znwj20qo0u5jtw.jpg" width = "190" height = "230" alt="liuxin" />
+![liuxin](http://ww3.sinaimg.cn/mw690/8db2c8cbgw1fa466w9znwj20qo0u5jtw.jpg)
 
 <p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
 
@@ -74,7 +73,6 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
 	<li><a href="https://liuxin.in/">www.liuxin.in</a></li>
 </ul>
 
-![liuxin](/res/img/blog/liuxin.jpg)
 
 
 
