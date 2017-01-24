@@ -1,5 +1,5 @@
 ---
-layout: life
+layout: post
 title: 关于刘鑫 XIN LIU
 duoshuo: true
 date: 2014-10-18
