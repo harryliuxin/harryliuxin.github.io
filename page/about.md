@@ -33,11 +33,7 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
         <!-- Add Pagination -->
         <div class="swiper-pagination"></div>
     </div>
-
-    <!-- Swiper JS -->
     <script src="../res/js/swiper.min.js"></script>
-
-    <!-- Initialize Swiper -->
     <script>
     var swiper = new Swiper('.swiper-container', {
         pagination: '.swiper-pagination',
