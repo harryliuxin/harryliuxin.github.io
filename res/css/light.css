@@ -119,7 +119,7 @@ a:link {
 	-o-border-radius:10%;
 }
 .title {
-	font-family:segoepr;
+	font-family:"Microsoft YaHei",SimHei,"Ubuntu Mono",Ubuntu,"Ubuntu Light",Arial,"STHeiti",Corbel,sans-serif;
 	font-size:40px;
 	margin-top:-3%;
 }
