@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: life
 title: "Time Lapse"
 date: 2016-09-08 08:39:47
 description: "延时摄影"

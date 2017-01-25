@@ -1,15 +1,9 @@
 ---
-layout: post
+layout: life
 title: "Formatting Samples"
 date: 2016-02-01
-description: "延时摄影"
-main-class: 'svg'
-color: '#7D669E'
-tags:
-- photography
-image: "bg.jpg"
-twitter_text: "test"
-introduction: "test"
+category: diary
+duoshuo: true
 ---
 
 The following text has been taken from [this page](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet).
