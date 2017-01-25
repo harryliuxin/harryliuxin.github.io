@@ -73,21 +73,6 @@ var swiper = new Swiper('.swiper-container', {
     });
 </script>
 
-
-<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1wgduqj20q90hin16.jpg" />
-<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1vxt9tj20q90hiq6p.jpg" />
-<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f91oao6j7yj21kw11x4dd.jpg" />
-<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu1rpkydj20q90hidki.jpg" />
-<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f4mu1r8pdmj20q90hin1g.jpg" />
-<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1qtpjqj20q90hijux.jpg" />
-<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1ol153j20wt0lv0zv.jpg" />
-<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f4mu1mszz0j20q90hijwi.jpg" />
-<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1m30j5j20q90hidkr.jpg" />
-<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu25ykqbj20q913etdt.jpg" />
-<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f91oagg11uj21kw2dcnp3.jpg" />
-
-
-
  <h2> 喜欢吉他</h2>
 
 <iframe width="760px" height="500px" src="https://sway.com/s/RUcEizqz03GJxRmX/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
