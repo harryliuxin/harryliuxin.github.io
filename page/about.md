@@ -52,8 +52,6 @@ var swiper = new Swiper('.swiper-container', {
 </script>
 
 
-<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu1t93tdj20q90hitit.jpg" />
-<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1vfp9cj20q90hi787.jpg" />
 <img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1wgduqj20q90hin16.jpg" />
 <img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1vxt9tj20q90hiq6p.jpg" />
 <img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f91oao6j7yj21kw11x4dd.jpg" />
