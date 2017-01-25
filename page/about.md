@@ -12,7 +12,7 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
 
 <h2> 喜欢摄影</h2>
 
-<iframe src="http://strut.io/editor/preview_export/impress.html#/step-1"></iframe>
+<iframe width="760px" height="500px" src="file:///Users/liuxin/harryliuxin.github.io/_posts/photo.html" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
 
 <img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1zjvo4j20q90higqh.jpg" />
 <img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1uehx2j20q90hiap2.jpg" />
