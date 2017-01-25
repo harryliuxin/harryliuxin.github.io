@@ -11,6 +11,7 @@
   <link rel="shortcut icon" href="/res/img/shortimg.ico" type="image/x-icon">
   <link rel="canonical" href="{{ site.blog.url }}{{ page.url }}">
   <link rel="stylesheet" href="/res/css/public.css">
+  <link rel="stylesheet" href="/res/css/light.css">
   <link rel="stylesheet" href="/res/css/life2.css">
   <link rel="stylesheet" href="/res/css/pygments.css">
   {% include tongji.html %}
@@ -18,7 +19,7 @@
 <body>
   <div class="main">
     <div class="title">{{ page.title }}</div>
-    {% if page.meta != false %}<div class="post-info"><i class="fa fa-clock-o"></i>&nbsp;{{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }} 转载请注明：<a href = "http://liuxin.in/">liuxin.in/</a> </div>{% endif %}
+    {% if page.meta != false %}<div class="post-info"><i class="fa fa-clock-o"></i>&nbsp;{{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }} 转载请注明：<a href = "http://liuxin.in/">liuxin.in</a> </div>{% endif %}
     <div class="content">
     {{ content }}
     </div>
@@ -29,6 +30,7 @@
     {% else %}
     <span class="pagination-item newer">上一篇&nbsp;<i class="fa fa-chain-broken"></i></span>
     {% endif %}
+
     {% if page.next %}
     <a class="pagination-item older" href="{{ BASE_PATH }}{{ page.next.url }}">{{ page.next.title }}&nbsp;&nbsp;<i class="fa fa-arrow-right"></i></a>
     {% else %}
