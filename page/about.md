@@ -30,7 +30,6 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu25ykqbj20q913etdt.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f91oagg11uj21kw2dcnp3.jpg)"></div>
 </div>
-        <!-- Add Pagination -->
 <div class="swiper-pagination"></div>
 </div>
 <script src="../res/js/swiper.min.js"></script>
@@ -78,20 +77,6 @@ var swiper = new Swiper('.swiper-container', {
  <h2> 喜欢设计</h2>
 
 <iframe width="760px" height="500px" src="https://sway.com/s/8CsBDymPwIEAei84/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
-
-<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0bydgb8j20yf1cqtwe.jpg" />
-<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f9b0bu1y0qj20yf1cqqrh.jpg" />
-<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0x12rqpj21cq0yf15j.jpg" />
-<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f9b0x3v9g0j21cq0yfqe4.jpg" />
-<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0x8hzd3j21cq0yftp2.jpg" />
-<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0xb4p0rj21cq0yf44b.jpg" />
-<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0uk523cj20yf1cqqii.jpg" />
-<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0uptfr6j21kw29xu0x.jpg" />
-<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f9b0uuft9wj21kw29xx6g.jpg" />
-<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f9b0xdu7zuj20sv150tm0.jpg" />
-<img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0udh6lyj20sv151wz1.jpg" />
-<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0uyu2pqj20qo0jxmz5.jpg" />
-<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f9b0uwnwgpj20jw0qogos.jpg" />
 
  <h2> 喜欢视频制作</h2>
 
