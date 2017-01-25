@@ -4,7 +4,6 @@ title: 关于刘鑫 XIN LIU
 duoshuo: true
 date: 2014-10-18
 ---
-![liuxin](http://ww3.sinaimg.cn/mw690/8db2c8cbgw1fa466w9znwj20qo0u5jtw.jpg)
 
 <p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
 
@@ -12,6 +11,8 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
 
 
 <h2> 喜欢摄影</h2>
+
+<iframe src="http://strut.io/editor/preview_export/impress.html#/step-1"></iframe>
 
 <img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1zjvo4j20q90higqh.jpg" />
 <img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1uehx2j20q90hiap2.jpg" />
