@@ -5,6 +5,29 @@ duoshuo: true
 date: 2014-10-18
 ---
 
+<link rel="stylesheet" href="../res/css/swiper.min.css">
+<style>
+    body {
+          background: #fff;
+          font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+          font-size: 14px;
+          color:#000;
+          margin: 0;
+          padding: 0;
+      }
+      .swiper-container {
+          width: 100%;
+          padding-top: 50px;
+          padding-bottom: 50px;
+      }
+      .swiper-slide {
+          background-position: center;
+          background-size: cover;
+          width: 300px;
+          height: 300px;
+      }
+</style>
+
 <p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
 
 mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca` 
