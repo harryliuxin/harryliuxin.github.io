@@ -12,7 +12,48 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
 
 <h2> 喜欢摄影</h2>
 
-<iframe src="file:///Users/liuxin/harryliuxin.github.io/_posts/photo.html"></iframe>
+<div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1zjvo4j20q90higqh.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1uehx2j20q90hiap2.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu1t93tdj20q90hitit.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1vfp9cj20q90hi787.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1wgduqj20q90hin16.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1vxt9tj20q90hiq6p.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f91oao6j7yj21kw11x4dd.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu1rpkydj20q90hidki.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f4mu1r8pdmj20q90hin1g.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1qtpjqj20q90hijux.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1ol153j20wt0lv0zv.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f4mu1mszz0j20q90hijwi.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1m30j5j20q90hidkr.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu25ykqbj20q913etdt.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f91oagg11uj21kw2dcnp3.jpg)"></div>
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination"></div>
+    </div>
+
+    <!-- Swiper JS -->
+    <script src="../res/js/swiper.min.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+    var swiper = new Swiper('.swiper-container', {
+        pagination: '.swiper-pagination',
+        effect: 'coverflow',
+        grabCursor: true,
+        centeredSlides: true,
+        slidesPerView: 'auto',
+        coverflow: {
+            rotate: 50,
+            stretch: 0,
+            depth: 100,
+            modifier: 1,
+            slideShadows : true
+        }
+    });
+    </script>
 
 <img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1uehx2j20q90hiap2.jpg" />
 <img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu1t93tdj20q90hitit.jpg" />
