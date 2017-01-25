@@ -29,13 +29,13 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
             <div class="swiper-slide" style="background-image:url(http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1m30j5j20q90hidkr.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu25ykqbj20q913etdt.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f91oagg11uj21kw2dcnp3.jpg)"></div>
-        </div>
+</div>
         <!-- Add Pagination -->
-        <div class="swiper-pagination"></div>
-    </div>
-    <script src="../res/js/swiper.min.js"></script>
-    <script>
-    var swiper = new Swiper('.swiper-container', {
+<div class="swiper-pagination"></div>
+</div>
+<script src="../res/js/swiper.min.js"></script>
+<script>
+var swiper = new Swiper('.swiper-container', {
         pagination: '.swiper-pagination',
         effect: 'coverflow',
         grabCursor: true,
@@ -49,9 +49,9 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
             slideShadows : true
         }
     });
-    </script>
+</script>
 
-<img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1uehx2j20q90hiap2.jpg" />
+
 <img src="http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu1t93tdj20q90hitit.jpg" />
 <img src="http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1vfp9cj20q90hi787.jpg" />
 <img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1wgduqj20q90hin16.jpg" />
