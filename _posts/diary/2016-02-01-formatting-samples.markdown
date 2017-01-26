@@ -6,7 +6,7 @@ category: diary
 duoshuo: true
 ---
 
-The following text has been taken from [this page](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet).
+The following text has been taken from [this page][1].
 
 # H1
 ## H2
@@ -22,12 +22,12 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
 Combined emphasis with **asterisks and _underscores_**.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Strikethrough uses two tildes. \~\~Scratch this.\~\~
 
 
 1. First ordered list item
 2. Another item
-  * Unordered sub-list. 
+  3. Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
   1. Ordered sub-list
 4. And another item.  
@@ -39,21 +39,15 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 + Or pluses
 
 
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link][2]
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[I'm a reference-style link][3]
 
-[You can use numbers for reference-style link definitions][1]
+[You can use numbers for reference-style link definitions][4]
 
-Or leave it empty and use the [link text itself]
+Or leave it empty and use the [link text itself][5]
 
 Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-
 
 Inline `code` has `back-ticks around` it.
 
@@ -99,3 +93,12 @@ Markdown | Less | Pretty
 Quote break.
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+
+详情移步[学习计划表][6]
+
+[1]:	https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
+[2]:	https://www.google.com
+[3]:	https://www.mozilla.org
+[4]:	http://slashdot.org
+[5]:	http://www.reddit.com
+[6]:	http://daodaoliang.github.io/work-list/
