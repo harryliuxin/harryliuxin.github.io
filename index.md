@@ -9,6 +9,10 @@ author: null
 
 <link rel="stylesheet" href="/assets/css/swiper.min.css">
 <style>
+	html, body {
+        position: relative;
+        height: 100%;
+    }
     body {}
       .swiper-container {
         width: 100%;
@@ -42,8 +46,8 @@ author: null
 
 mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca` 
 
+<h2> 喜欢摄影 Love Taking Pictures</h2>
 
-<h2> 喜欢摄影</h2>
 
 <div class="swiper-container gallery-top">
         <div class="swiper-wrapper">
@@ -64,10 +68,10 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f91oagg11uj21kw2dcnp3.jpg)"></div>
 </div>
 <!-- Add Arrows -->
-        <div class="swiper-button-next swiper-button-white"></div>
-        <div class="swiper-button-prev swiper-button-white"></div>
-    </div>
-    <div class="swiper-container gallery-thumbs">
+<div class="swiper-button-next swiper-button-white"></div>
+<div class="swiper-button-prev swiper-button-white"></div>
+</div>
+<div class="swiper-container gallery-thumbs">
         <div class="swiper-wrapper">
 			<div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1zjvo4j20q90higqh.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1uehx2j20q90hiap2.jpg)"></div>
@@ -84,9 +88,9 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
             <div class="swiper-slide" style="background-image:url(http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f4mu1m30j5j20q90hidkr.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f4mu25ykqbj20q913etdt.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f91oagg11uj21kw2dcnp3.jpg)"></div>
-    	</div>
-    </div>
-    
+</div>
+</div>
+
 <script src="/assets/js/swiper.min.js"></script>
 
 <script>
@@ -107,8 +111,7 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
     });
     galleryTop.params.control = galleryThumbs;
     galleryThumbs.params.control = galleryTop;
-    
-    </script>
+</script>
 
  <h2> 喜欢吉他</h2>
 
