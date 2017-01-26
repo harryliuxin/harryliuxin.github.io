@@ -88,12 +88,11 @@ var swiper = new Swiper('.swiper-container', {
             <div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f9b0uuft9wj21kw29xx6g.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f9b0xdu7zuj20sv150tm0.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0udh6lyj20sv151wz1.jpg)"></div>
-            <div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f4mu1vfp9cj20q90hi787.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0bydgb8j20yf1cqtwe.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f9b0bu1y0qj20yf1cqqrh.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0uk523cj20yf1cqqii.jpg)"></div>
-            <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0uk523cj20yf1cqqii.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0uyu2pqj20qo0jxmz5.jpg)"></div>
+            <div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f9b0uwnwgpj20jw0qogos.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0x12rqpj21cq0yf15j.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f9b0x3v9g0j21cq0yfqe4.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0x8hzd3j21cq0yftp2.jpg)"></div>
@@ -101,7 +100,7 @@ var swiper = new Swiper('.swiper-container', {
 	</div>
 	<div class="swiper-pagination"></div>
 </div>
-
+<script src="/assets/js/swiper.min.js"></script>
 <script>
 var swiper = new Swiper('.swiper-container', {
         pagination: '.swiper-pagination',
