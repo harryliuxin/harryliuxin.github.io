@@ -83,7 +83,8 @@ var swiper = new Swiper('.swiper-container', {
 
 <iframe width="760px" height="500px" src="https://sway.com/s/8CsBDymPwIEAei84/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
 
-<div class="swiper-wrapper">
+<div class="swiper-container">
+    <div class="swiper-wrapper">
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0uptfr6j21kw29xu0x.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f9b0uuft9wj21kw29xx6g.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f9b0xdu7zuj20sv150tm0.jpg)"></div>
