@@ -9,10 +9,6 @@ author: null
 
 <link rel="stylesheet" href="/assets/css/swiper.min.css">
 <style>
-	html, body {
-        position: relative;
-        height: 100%;
-    }
     body {}
       .swiper-container {
         width: 100%;
@@ -91,7 +87,7 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
 </div>
 </div>
 
-<script src="/assets/js/swiper.min.js"></script>
+<script src="/assets/js/swiper.js"></script>
 
 <script>
     var galleryTop = new Swiper('.gallery-top', {
