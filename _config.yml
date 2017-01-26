@@ -1,29 +1,36 @@
-markdown: kramdown
-highlighter: rouge
-
-permalink: blog/:year/:month/:day/:title.html
-paginate: 7
-paginate_path: page/:num
-encoding: "utf-8"
-future: true
-lsi: false
-safe: true
-gems: [jekyll-paginate]
-
-blog:
-    name: LiuXin # 博客名称
-    description: To be a romantic scientist # 博客描述
-    title: 刘鑫的博客 # 网页标题
-    url: liuxin.in # 博客地址
-    duoshuo: 6264845519328117506 # 多说ID
-    tongji: x399liu # 百度统计ID
-    qiniu: # 七牛云地址
+# Site settings
+title: LiuXin
+subtitle: To be a romantic scientist
+email: 15514657777@163.com
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "https://liuxin.in" # the base hostname & protocol for your site
 author:
-    name: 刘鑫 # 作者名称
-    email: 15514657777@163.com # 邮箱地址
-    weibo: http://weibo.com/u/2377304267 # 微博地址
-    github: https://github.com/harryliuxin # GitHub地址
-    logo: /res/img/psb.jpg # logo地址
-    douban:
-        name: http://www.douban.com/people/98112169/    # 豆瓣地址名称
-        key:             # 豆瓣API Key
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: (716) 555-5555
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: https://gitlab.com/u/andrewbanchich
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/andrewbanchich
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed

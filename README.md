@@ -1,70 +1,65 @@
-## 简介
+# Forty - Jekyll Theme
 
-[![Join the chat at https://gitter.im/daodaoliang/daodaoliang.github.com](https://badges.gitter.im/daodaoliang/daodaoliang.github.com.svg)](https://gitter.im/daodaoliang/daodaoliang.github.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
-这是一款Jekyll博客主题，基础模板采用的是该**Source: [GitHub](https://github.com/pexcn/Jekyll-Light)**下的模板(感谢作者分享),里面我也做了一些个人喜好的修改，若是你喜欢该模板，请在下载后清除我的博文和我的配置信息，谢谢。PS：Enjoy it :）
+![Forty Theme](assets/images/forty.jpg "Forty Theme")
 
-## 使用
+# How to Use
 
-### 站点配置
-在`_config.yml`配置你的站点信息，详细配置如下：
+For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
+or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
+and [creating pages](https://jekyllrb.com/docs/pages/).
 
-	blog:
-		name:                  # 博客名称
-		description:           # 博客描述
-		title:                 # 网页标题
-		url:                   # 博客地址
-		duoshuo:               # 多说ID
-		tongji:                # 百度统计ID
-		qiniu:                 # 七牛云地址
-	author:
-		name:                  # 作者名称
-		email:                 # 邮箱地址
-		weibo:                 # 微博地址
-		github:                # GitHub地址
-		logo:                  # logo地址
-把以上这些选项的信息全改成你自己的，就配置完成了。
+- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
+- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
 
-### 多说评论框
-_posts文章默认开启评论框，而简版页面默认关闭。  
-_posts文章可以在开头设置`duoshuo: false`来关闭。  
-简版页面可以在开头设置`duoshuo: true`来开启。
+# Added Features
 
-### MathJax数学公式
-需要在页面开头添加`math: true`来开启
+* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
+* Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
+* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
+* Set **featured images** in front matter.
 
-在需要用到公式的地方用`\\ \\`或`$$ $$`括起来
+# Credits
 
-例如：
+Original README from HTML5 UP:
 
-	行内公式：
-	\\E=mc^2\\
-
-	行间公式：
-	$$E=mc^2$$
-
-### 创建文章/页面
-定位到博客目录，可以运行以下命令
-
-* 创建文章：`rake post title="Post Name"` 
-* 创建简版页面：`rake life title="Page Name"`
-* 创建页面： `rake page title="Page name"`
-
-### 页面的使用
-修改的都是`markdown文件`
-
-* 普通页面  
-layout项改为`blog`
-* 简版页面  
-layout项改为`life`
-* 文章  
-_posts文件夹下的markdown文件的layout项改为`post`，使用简版页面就改成`life`
-
-### 生成静态博客
-把你的博客推送到GitHub或者其它支持Jekyll的代码托管网站就可以了。  
-具体可以到[Jekyll官网](http://jekyllrb.com/)或[GitHub Pages](https://pages.github.com/)查看详细教程。
+```
+Forty by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-## 许可证
+This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
+creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
+set up to smoothly transition to secondary landing pages (for which a separate page
+template is provided), and includes a number of neat effects (check out the menu!),
+extra features, and all the usual stuff you'd expect. Hope you dig it!
 
-[**GNU GPL v3**](http://www.gnu.org/licenses/gpl-3.0.html)
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
+
+(* = not included)
+
+AJ
+aj@lkn.io | @ajlkn
+
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
+
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		background-size polyfill (github.com/louisremi)
+		Misc. Sass functions (@HugoGiraudel)
+		Respond.js (j.mp/respondjs)
+		Skel (skel.io)
+```
+
+Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
