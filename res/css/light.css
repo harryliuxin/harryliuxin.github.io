@@ -242,7 +242,7 @@ a:link {
 }
 .posts {
 	background-color: #fff;
-	padding-top:15px;
+	padding-top:10px;
 	border-radius: 5px;
 	box-shadow:5px 2px 6px #000;
 }
@@ -277,28 +277,28 @@ a:link {
 }
 
 .post-title {
-	color:#1abc9c;
-	margin-top:18px;
+	color:#0090d3;
+	margin-top:12px;
 	margin-left:30px;
 	letter-spacing:2px;
 	word-break:break-all;
 }
 .post-title:hover {
-	color: #0090d3;
-	margin-top:18px;
+	color: #1abc9c;
+	margin-top:12px;
 	margin-left:30px;
 	letter-spacing:2px;
 	word-break:break-all;
 }
 .post-title a {
-	color:#1abc9c;
+	color:#0090d3;
 	transition:color 0.25s;
 	-webkit-transition:color 0.25s;
 	-moz-transition:color 0.25s;
 	-o-transition:color 0.25s;
 }
 .post-title a:hover {
-	color: #0090d3;
+	color:#0090d3#1abc9c;
 }
 .post-meta {
 	color:#999;
