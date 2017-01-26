@@ -125,7 +125,7 @@ a:link {
 }
 .title a {
 	color:#fff;
-	font-weight:500;
+	font-weight:bold;
 	text-shadow:0 0 5px;
 	transition:color 0.5s;
 	-webkit-transition:color 0.5s;
@@ -136,7 +136,7 @@ a:link {
 	color:yellow;
 }
 .sub-title {
-	font-family:segoepr;
+	font-family:"Microsoft YaHei",SimHei,"Ubuntu Mono",Ubuntu,"Ubuntu Light",Arial,"STHeiti",Corbel,sans-serif;
 	color:#fff;
 	font-style:italic;
 	text-shadow:0px 0px 2px;
