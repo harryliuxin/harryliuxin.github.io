@@ -36,6 +36,30 @@
 					<integer>5</integer>
 				</dict>
 			</dict>
+			<key>2017-01-23-com3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>507112042.04298502</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>12</integer>
+				</dict>
+			</dict>
+			<key>无标题.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>507112680.38169998</real>
+				<key>lastModification</key>
+				<real>507112680.38169998</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>21</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -49,6 +73,12 @@
 		<array>
 			<string>2017-01-22-com2.md</string>
 		</array>
+		<array>
+			<string>2017-01-23-com3.md</string>
+		</array>
+		<array>
+			<string>无标题.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -57,7 +87,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>6</integer>
+			<integer>21</integer>
 		</dict>
 	</dict>
 </dict>
