@@ -11,7 +11,7 @@ safe: true
 gems: [jekyll-paginate]
 
 blog:
-    name: liuxin # 博客名称
+    name: LiuXin # 博客名称
     description: To be a romantic scientist # 博客描述
     title: 刘鑫的博客 # 网页标题
     url: liuxin.in # 博客地址
