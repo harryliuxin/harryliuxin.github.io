@@ -2,16 +2,16 @@
 title: LiuXin
 subtitle: To be a romantic scientist
 email: 15514657777@163.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: 梦想是成为一个浪漫科研狗 <br /> To be a romantic scientist.
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: liuxin
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 225 Cedarbrae Ave UnitB
+city: Waterloo
+state: ON
+zip_code: N2L4S6
+country: Canada
+phone: (1)-226-868-1016
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

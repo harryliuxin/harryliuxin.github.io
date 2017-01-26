@@ -105,13 +105,13 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc r
   <em></em>
   <div class="inner"><em><header class="major">
 
-## Massa libero
+## 关于我
 
 </header>
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+把之前的放上去
 
-</em>   <a href="generic.html">Get Started</a>{:.button .next}
+</em>   <a href="generic.html">more</a>{:.button .next}
 
 </div>
 </section>
