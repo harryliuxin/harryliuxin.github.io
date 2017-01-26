@@ -237,8 +237,8 @@ a:link {
 }
 .main {
 	margin-left:25%;
-	margin-top:-10px;
-	padding:0 15px 0 18px;
+	margin-top:10px;
+	padding:10px 15px 10px 18px;
 }
 .posts {
 	background-color: #fff;
@@ -277,14 +277,14 @@ a:link {
 
 .post-title {
 	color:#1abc9c;
-	margin-top:5px;
+	margin-top:20px;
 	margin-left:30px;
 	letter-spacing:2px;
 	word-break:break-all;
 }
 .post-title:hover {
 	color: #0090d3;
-	margin-top:5px;
+	margin-top:20px;
 	margin-left:30px;
 	letter-spacing:2px;
 	word-break:break-all;
