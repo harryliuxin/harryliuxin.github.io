@@ -102,6 +102,23 @@ var swiper = new Swiper('.swiper-container', {
 	<div class="swiper-pagination"></div>
 </div>
 
+<script>
+var swiper = new Swiper('.swiper-container', {
+        pagination: '.swiper-pagination',
+        effect: 'coverflow',
+        grabCursor: true,
+        centeredSlides: true,
+        slidesPerView: 'auto',
+        coverflow: {
+            rotate: 50,
+            stretch: 0,
+            depth: 100,
+            modifier: 1,
+            slideShadows : true
+        }
+    });
+</script>
+
  <h2> 喜欢视频制作</h2>
 
 <iframe width="760px" height="500px" src="https://sway.com/s/kLIYRTg8Gd2i5Tzf/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
