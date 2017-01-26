@@ -121,7 +121,7 @@ a:link {
 .title {
 	font-family:"Microsoft YaHei",SimHei,"Ubuntu Mono",Ubuntu,"Ubuntu Light",Arial,"STHeiti",Corbel,sans-serif;
 	font-size:40px;
-	margin-top:5%;
+	margin-top:-5%;
 }
 .title a {
 	color:#fff;
