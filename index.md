@@ -9,9 +9,7 @@ author: null
 
 <link rel="stylesheet" href="/assets/css/swiper.min.css">
 <style>
-    body {
-          background: #fff;
-      }
+    body {}
       .swiper-container {
           width: 100%;
           padding-top: 50px;
@@ -51,6 +49,8 @@ mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca`
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f91oagg11uj21kw2dcnp3.jpg)"></div>
 </div>
 <div class="swiper-pagination"></div>
+<div class="swiper-button-next"></div>
+<div class="swiper-button-prev"></div>
 </div>
 <script src="/assets/js/swiper.min.js"></script>
 <script>
@@ -59,6 +59,10 @@ var swiper = new Swiper('.swiper-container', {
         effect: 'coverflow',
         grabCursor: true,
         centeredSlides: true,
+        paginationClickable: true,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        spaceBetween: 30
         slidesPerView: 'auto',
         coverflow: {
             rotate: 50,
