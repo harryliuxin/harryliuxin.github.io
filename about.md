@@ -14,7 +14,7 @@ nav-menu: true
     </span>
 <!-- 题目 -->
     <header class="major">
-    <h1>{{ page.title }}</h1>>
+    <h1>{{ page.title }}</h1>
     </header>
 <!-- 描述 -->
     <div class="content">
@@ -24,6 +24,22 @@ nav-menu: true
 </section>
 
 <h2> 喜欢摄影 Love Taking Pictures</h2>
+
+<link rel="stylesheet" href="/assets/css/swiper.min.css">
+<style>
+    body {}
+    .swiper-container {
+          width: 100%;
+          padding-top: 50px;
+          padding-bottom: 50px;
+      }
+    .swiper-slide {
+          background-position: center;
+          background-size: cover;
+          width: 300px;
+          height: 300px;
+      }
+</style>
 
 <div class="swiper-container">
         <div class="swiper-wrapper">
@@ -155,21 +171,6 @@ var swiper = new Swiper('.swiper-container', {
   </section>
   <p></p>
 
-  <link rel="stylesheet" href="/assets/css/swiper.min.css">
-<style>
-    body {}
-    .swiper-container {
-          width: 100%;
-          padding-top: 50px;
-          padding-bottom: 50px;
-      }
-    .swiper-slide {
-          background-position: center;
-          background-size: cover;
-          width: 300px;
-          height: 300px;
-      }
-</style>
 
 
 
