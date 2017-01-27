@@ -103,7 +103,7 @@ var swiper = new Swiper('.swiper-container', {
       <div class="content">
         <div class="inner">
           <header class="major">
-          <h2> 喜欢设计 Love design </h2>
+          <h2 style="floatright;"> 喜欢设计 Love design </h2>
           </header>
 
 <div class="swiper-container">
