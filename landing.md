@@ -1,57 +1,51 @@
 ---
-title: Landing
+title: 模版
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
-
+<!-- banner -->
 <section id="banner" class="style2">
   <div class="inner">
-  <span class="image">
-  <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
-</span>
-  <header class="major">
-
-# Landing
-
-</header>
-  <div class="content">
-
-{{ page.description }}
-
-</div>
-</div>
+<!-- 图片背景 -->
+    <span class="image">
+    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+    </span>
+<!-- 题目 -->
+    <header class="major">
+    {{ page.title }}
+    </header>
+<!-- 描述 -->
+    <div class="content">
+    {{ page.description }}
+    </div>
+  </div>
 </section>
 
+<!-- 正文 -->
 <div id="main">
-  <section id="one">
-  <div class="inner"><header class="major">
-
-## Sed amet aliquam
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.
-
-</div>
-  <p></p>
-</section>
-  <p>
-</p>
+<!-- section1 --> 
+  <section id="one"> 
+    <div class="inner">
+    <header class="major">
+    小标题1
+    </header>
+    段落1
+    </div><p></p>
+  </section><p></p>
+<!-- section2 -->     
   <section id="two" class="spotlights">
-  <section><a href="generic.html">
-  <img src="assets/images/pic08.jpg" alt="" data-position="center center">
-</a>{:.image}
-
-<div class="content">
-  <div class="inner"><header class="major">
-
-### Orci maecenas
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+    <section>
+      <a href="generic.html">
+        <img src="assets/images/pic08.jpg" alt="" data-position="center center">
+      </a>
+      <div class="content">
+        <div class="inner">
+          <header class="major">
+          小标题2
+          </header>
+          段落2
 
 <em><a href="generic.html">Learn more</a>{:.button}
 
