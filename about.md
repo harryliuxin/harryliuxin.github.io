@@ -32,7 +32,7 @@ nav-menu: true
       <div class="content">
         <div class="inner">
           <header class="major">
-          <h2 align="center"> 喜欢摄影 Love Taking Pictures</h2>
+          <h2> 喜欢摄影 Love Taking Pictures</h2>
           </header>
 
 
@@ -103,7 +103,7 @@ var swiper = new Swiper('.swiper-container', {
       <div class="content">
         <div class="inner">
           <header class="major">
-          <h2 align="center"> 喜欢设计 </h2>
+          <h2> 喜欢设计 Love design </h2>
           </header>
 
 <div class="swiper-container">
