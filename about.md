@@ -23,21 +23,13 @@ nav-menu: true
   </div>
 </section>
 
-
-
-
+<!-- 左右样式 -->
 <div id="main">
 <section id="two" class="spotlights">
+
+<!-- 模块1 -->
 <section>
-      <div class="content">
-        <div class="inner">
-          <header class="major">
-          <h2> 喜欢摄影 Love Taking Pictures</h2>
-          </header>
-
-
-
-
+<!-- 模块1媒体 -->
 <link rel="stylesheet" href="/assets/css/swiper.min.css">
 <style>
     body {}
@@ -93,19 +85,21 @@ var swiper = new Swiper('.swiper-container', {
         }
     });
 </script>
-</div>
-      </div>
-    </section>
-
-
-
-<section>
-      <div class="content">
-        <div class="inner">
+<!-- 模块1文字 -->
+    <div class="content">
+      <div class="inner">
           <header class="major">
-          <h2 style="floatright;"> 喜欢设计 Love design </h2>
+          <h2> 喜欢摄影 Love Taking Pictures</h2>
           </header>
+          这是去毛里求斯照的一些风景照和人像。
+      </div>
+    </div>
+</section>
 
+
+<!-- 模块2 -->
+<section>
+<!-- 模块2媒体 -->
 <div class="swiper-container">
     <div class="swiper-wrapper">
             <div class="swiper-slide" style="background-image:url(http://ww4.sinaimg.cn/mw690/8db2c8cbgw1f9b0uptfr6j21kw29xu0x.jpg)"></div>
@@ -143,14 +137,19 @@ var swiper = new Swiper('.swiper-container', {
         }
     });
 </script>
+<!-- 模块2文字 -->
+<div class="content">
+        <div class="inner">
+          <header class="major">
+          <h2 style="floatright;"> 喜欢设计 Love design </h2>
+          </header>
+          在大一时做的一些杂志、海报、宣传册
 </div>
       </div>
     </section>
 
 
-<!-- 正文 -->
-
-<!-- section1 --> 
+<!-- 不分左右样式 --> 
 <!--  <section id="one"> 
     <div class="inner">
     <header class="major">
@@ -160,9 +159,8 @@ var swiper = new Swiper('.swiper-container', {
     </div><p></p>
   </section><p></p>
 -->
-
-<!-- section2 -->     
-  
+    
+ <!-- 模块3 --> 
     <section>
         <img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f91q0elykhj20im0agdhr.jpg" alt="" data-position="center center">
       <div class="content">
@@ -174,7 +172,7 @@ var swiper = new Swiper('.swiper-container', {
         </div>
       </div>
     </section>
-
+ <!-- 模块4 --> 
     <section>
       <iframe width="760px" height="500px" src="https://sway.com/s/RUcEizqz03GJxRmX/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
       <div class="content">
@@ -187,7 +185,7 @@ var swiper = new Swiper('.swiper-container', {
       </div>
     </section>
 
-    
+ <!-- 模块5 --> 
 <section>
       <iframe width="760px" height="500px" src="https://sway.com/s/8CsBDymPwIEAei84/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
       <div class="content">
@@ -199,7 +197,8 @@ var swiper = new Swiper('.swiper-container', {
         </div>
       </div>
     </section>
-
+    
+ <!-- 模块6 --> 
     <section>
       <iframe width="760px" height="500px" src="https://sway.com/s/kLIYRTg8Gd2i5Tzf/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
       <div class="content">
