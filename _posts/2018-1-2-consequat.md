@@ -25,7 +25,7 @@ date : 2018-01-02
 <h2 class="category" id="{{ word }}">{{ word }}</h2>
 
 {% for post in site.categories[word] %}{% if post.title != null %}
-<ul><li class="category-sub">{{ post.date | date: "%Y-%m-%d" }}&nbsp;&nbsp;&raquo;&nbsp;&nbsp;<a class="category-sub-title" href="{{ post.url }}">{{ post.title }}</a></li></ul>
+<ul><li>{{ post.date | date: "%Y-%m-%d" }}&nbsp;&nbsp;&raquo;&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li></ul>
 {% endif %}{% endfor %}
 {% endunless %}{% endfor %}
 <br/><br/>
