@@ -20,7 +20,6 @@ nav-menu: true
   </ul>
 
 
-
 {% for item in (0..site.categories.size) %}{% unless forloop.last %}
 {% capture word %}{{ category[item] | strip_newlines }}{% endcapture %}
 <h2 class="category" id="{{ word }}">{{ word }}</h2>
@@ -30,8 +29,6 @@ nav-menu: true
 {% endif %}{% endfor %}
 {% endunless %}{% endfor %}
 <br/><br/>
-
-
 
 
 <section id="one" class="tiles">
