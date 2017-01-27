@@ -32,6 +32,10 @@ nav-menu: true
     小标题1
     </header>
     <p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
+    </div><p></p>
+  </section><p></p>
+
+    
 
 mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca` 
 
@@ -119,12 +123,9 @@ var swiper = new Swiper('.swiper-container', {
 
 <iframe width="760px" height="500px" src="https://sway.com/s/8CsBDymPwIEAei84/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
 
-    </div><p></p>
-  </section><p></p>
 
 
 
-  
 <!-- section2 -->     
   <section id="two" class="spotlights">
     <section>
