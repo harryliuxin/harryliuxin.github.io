@@ -15,7 +15,7 @@ author: null
           padding-top: 50px;
           padding-bottom: 50px;
       }
-      .swiper-slide {
+    .swiper-slide {
           background-position: center;
           background-size: cover;
           width: 300px;
@@ -28,7 +28,6 @@ author: null
 mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca` 
 
 <h2> 喜欢摄影 Love Taking Pictures</h2>
-
 
 <div class="swiper-container">
         <div class="swiper-wrapper">
@@ -70,18 +69,7 @@ var swiper = new Swiper('.swiper-container', {
     });
 </script>
 
- <h2> 喜欢吉他</h2>
-
-<iframe width="760px" height="500px" src="https://sway.com/s/RUcEizqz03GJxRmX/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
-
- <h2> 喜欢篮球</h2>
-
-<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f91q0elykhj20im0agdhr.jpg" />
-<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f91q0cz3ddj20zk0qodjy.jpg" />
- 
  <h2> 喜欢设计</h2>
-
-<iframe width="760px" height="500px" src="https://sway.com/s/8CsBDymPwIEAei84/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
 
 <div class="swiper-container">
     <div class="swiper-wrapper">
@@ -98,8 +86,8 @@ var swiper = new Swiper('.swiper-container', {
             <div class="swiper-slide" style="background-image:url(http://ww2.sinaimg.cn/mw690/8db2c8cbgw1f9b0x3v9g0j21cq0yfqe4.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0x8hzd3j21cq0yftp2.jpg)"></div>
             <div class="swiper-slide" style="background-image:url(http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f9b0xb4p0rj21cq0yf44b.jpg)"></div>
-	</div>
-	<div class="swiper-pagination"></div>
+    </div>
+    <div class="swiper-pagination"></div>
 </div>
 <script src="/assets/js/swiper.min.js"></script>
 <script>
@@ -118,6 +106,26 @@ var swiper = new Swiper('.swiper-container', {
         }
     });
 </script>
+
+
+
+
+<iframe width="760px" height="500px" src="https://sway.com/s/8CsBDymPwIEAei84/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
+
+
+
+
+
+
+ <h2> 喜欢吉他</h2>
+
+<iframe width="760px" height="500px" src="https://sway.com/s/RUcEizqz03GJxRmX/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
+
+ <h2> 喜欢篮球</h2>
+
+<img.main src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f91q0elykhj20im0agdhr.jpg" />
+<img.main src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f91q0cz3ddj20zk0qodjy.jpg" />
+ 
 
  <h2> 喜欢视频制作</h2>
 
