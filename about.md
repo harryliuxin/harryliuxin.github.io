@@ -179,15 +179,18 @@ var swiper = new Swiper('.swiper-container', {
     </section>
 
     <section>
-      <em><a href="generic.html"><img src="assets/images/pic10.jpg" alt="" data-position="top center"></a></em>
+      <em><a href="generic.html"><iframe width="760px" height="500px" src="https://sway.com/s/RUcEizqz03GJxRmX/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe></a></em>
     <div class="content">
     <em></em>
     <div class="inner"><em><header class="major">小标题3</header>段落3<em><a href="generic.html">链接</a></em></em></div></div></section>
 
-<section><a href="generic.html"><img src="assets/images/pic10.jpg" alt="" data-position="25% 25%"></a>
 
-<div class="content"><div class="inner"><header class="major">小标题4</header>段落4<em></em></div></div></section><em><p></p></em></section><em><p></p></em>
 
+<section><a href="generic.html"><img src="assets/images/pic10.jpg" alt="" data-position="25% 25%"></a><div class="content"><div class="inner"><header class="major">小标题4</header>段落4<em></em></div></div></section><em><p></p></em></section>
+
+
+
+<em><p></p></em>
 <!-- section3 --> 
   <section id="three">
     <em></em>
