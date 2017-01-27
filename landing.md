@@ -62,19 +62,10 @@ nav-menu: true
 
 <!-- section3 --> 
   <section id="three">
-  <em></em>
-  <div class="inner"><em><header class="major">
-
-## 关于我
-
-</header>
-
-把之前的放上去
-
-</em>   <a href="generic.html">more</a>{:.button .next}
-
-</div>
-</section>
-  <p>
-</p>
+    <em></em>
+    <div class="inner">
+    <em><header class="major">小标题5</header>段落5</em>
+    </div>
+  </section>
+  <p></p>
 </div>
