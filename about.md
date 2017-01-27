@@ -182,7 +182,7 @@ var swiper = new Swiper('.swiper-container', {
           <header class="major">
           <h2> 喜欢吉他 </h2>
           </header>
-          电吉他和木吉他
+          电吉他，木吉他，你要哪一个？
         </div>
       </div>
     </section>
@@ -195,7 +195,7 @@ var swiper = new Swiper('.swiper-container', {
           <header class="major">
           <h2> 喜欢设计 </h2>
           </header>
-          这是参加学校的光与光基比赛时做的海报，还记得当时微信投票时候没有跟同学说所以就没得几票，最后答辩的时候临时做了个视频绝地大反击拿了个第一嘻嘻
+          这是参加学校的光与光基比赛时做的海报，还记得当时微信投票时候没有跟同学说所以就没得几票，最后答辩的时候临时做了个屌屌的视频，人品大爆发拿了个第一嘻嘻～
         </div>
       </div>
     </section>
@@ -250,12 +250,10 @@ var swiper = new Swiper('.swiper-container', {
 <!--
  <h2> 不喜欢填坑</h2>
 <p>嘻嘻，开玩笑啦～ 考完试我就把这个网站写完</p>
--->
-
 <h2>Projects</h2>
-
 <ul>
   <li><a href="https://nano-er.com/">www.nano-er.com</a></li>
   <li><a href="https://liuxin.in/">www.liuxin.in</a></li>
 </ul>
 </div>
+-->
