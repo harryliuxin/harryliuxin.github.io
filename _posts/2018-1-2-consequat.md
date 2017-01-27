@@ -3,6 +3,8 @@ layout: post
 title: 55555
 description: Ipsum dolor sit amet
 image: assets/images/pic05.jpg
+category : diary
+date : 2018-01-02
 ---
 
 目录：
