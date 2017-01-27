@@ -11,7 +11,7 @@ nav-menu: true
 
 {% capture categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign category = categories | split:',' | sort %}
-<h5 class="category">分类</h5>
+<h4 class="category">全部分类</h4>
 <ul>
     {% for item in (0..site.categories.size) %}{% unless forloop.last %}
     {% capture word %}{{ category[item] | strip_newlines }}{% endcapture %}
