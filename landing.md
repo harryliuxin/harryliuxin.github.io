@@ -46,20 +46,17 @@ nav-menu: true
           小标题2
           </header>
           段落2
-
-<em><a href="generic.html">Learn more</a>{:.button}
-
-</em></div>
-  <em></em>
-</div></section>
-  <em></em>
-  <section>
-  <em><a href="generic.html"><img src="assets/images/pic09.jpg" alt="" data-position="top center"></a>{:.image}
-
-</em>
-  <div class="content">
-  <em></em>
-  <div class="inner"><em><header class="major">
+          <em><a href="generic.html">Learn more</a>{:.button}</em>
+        </div>
+        <em></em>
+      </div>
+    </section>
+    <em></em>
+    <section>
+    <em><a href="generic.html"><img src="assets/images/pic09.jpg" alt="" data-position="top center"></a>{{ page.image }}</em>
+    <div class="content">
+    <em></em>
+    <div class="inner"><em><header class="major">
 
 ### Rhoncus magna
 
@@ -95,6 +92,9 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc r
   <em>
   <p></p>
 </em>
+
+
+<!-- section3 --> 
   <section id="three">
   <em></em>
   <div class="inner"><em><header class="major">
