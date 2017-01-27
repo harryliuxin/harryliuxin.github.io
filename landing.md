@@ -46,53 +46,19 @@ nav-menu: true
           小标题2
           </header>
           段落2
-          <em><a href="generic.html">Learn more</a>{:.button}</em>
+          <em><a href="generic.html">链接</a></em>
         </div>
-        <em></em>
       </div>
     </section>
-    <em></em>
     <section>
-    <em><a href="generic.html"><img src="assets/images/pic09.jpg" alt="" data-position="top center"></a>{{ page.image }}</em>
+    <em><a href="generic.html"><img src="assets/images/pic09.jpg" alt="" data-position="top center"></a></em>
     <div class="content">
     <em></em>
-    <div class="inner"><em><header class="major">
+    <div class="inner"><em><header class="major">小标题3</header>段落3</em></div></div></section>
 
-### Rhoncus magna
+<section><a href="generic.html"><img src="assets/images/pic10.jpg" alt="" data-position="25% 25%"></a>
 
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
-
-</em>   <a href="generic.html">Learn more</a>{:.button}
-
-</div>
-</div>
-</section>
-  <section><a href="generic.html">
-  <img src="assets/images/pic10.jpg" alt="" data-position="25% 25%">
-</a>{:.image}
-
-<div class="content">
-  <div class="inner"><header class="major">
-
-### Sed nunc ligula
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
-
-<em><a href="generic.html">Learn more</a>{:.button}
-
-</em></div>
-  <em></em>
-</div></section>
-  <em><p></p></em>
-</section>
-  <em>
-  <p></p>
-</em>
-
+<div class="content"><div class="inner"><header class="major">小标题4</header>段落4<em></em></div></div></section><em><p></p></em></section><em><p></p></em>
 
 <!-- section3 --> 
   <section id="three">
