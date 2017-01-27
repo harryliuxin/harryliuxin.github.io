@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 55555
-description: 这是一个含diary的目录
+title: 总目录
+description: 这是所有categories的汇总
 image: assets/images/pic05.jpg
 category : diary
 date : 2018-01-02
