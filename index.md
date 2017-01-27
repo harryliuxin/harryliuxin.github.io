@@ -89,6 +89,8 @@ var swiper = new Swiper('.swiper-container', {
     </div>
     <div class="swiper-pagination"></div>
 </div>
+
+
 <script src="/assets/js/swiper.min.js"></script>
 <script>
 var swiper = new Swiper('.swiper-container', {
@@ -122,10 +124,10 @@ var swiper = new Swiper('.swiper-container', {
 <iframe width="760px" height="500px" src="https://sway.com/s/RUcEizqz03GJxRmX/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
 
  <h2> 喜欢篮球</h2>
-
-<img.main src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f91q0elykhj20im0agdhr.jpg" />
-<img.main src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f91q0cz3ddj20zk0qodjy.jpg" />
- 
+<div class="image fit">
+<img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f91q0elykhj20im0agdhr.jpg" />
+<img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f91q0cz3ddj20zk0qodjy.jpg" />
+</div>
 
  <h2> 喜欢视频制作</h2>
 
