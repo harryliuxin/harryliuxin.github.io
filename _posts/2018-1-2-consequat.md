@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: 55555
 description: Ipsum dolor sit amet
 image: assets/images/pic05.jpg
