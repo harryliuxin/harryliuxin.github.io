@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 总目录
-description: 这是所有categories的汇总
+title: 总目录 Categories
+description: 这是所有目录的汇总 All the categories are included.
 image: assets/images/pic05.jpg
 category : diary
 date : 2018-01-02
