@@ -23,7 +23,20 @@ nav-menu: true
   </div>
 </section>
 
-<h2 align="center"> 喜欢摄影 Love Taking Pictures</h2>
+
+
+
+<div id="main">
+<section id="two" class="spotlights">
+<section>
+      <div class="content">
+        <div class="inner">
+          <header class="major">
+          <h2 align="center"> 喜欢摄影 Love Taking Pictures</h2>
+          </header>
+
+
+
 
 <link rel="stylesheet" href="/assets/css/swiper.min.css">
 <style>
@@ -120,14 +133,16 @@ var swiper = new Swiper('.swiper-container', {
         }
     });
 </script>
-
+</div>
+      </div>
+    </section>
 <!-- 
 <iframe width="760px" height="500px" src="https://sway.com/s/8CsBDymPwIEAei84/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
 -->
 
 
 <!-- 正文 -->
-<div id="main">
+
 <!-- section1 --> 
 <!--  <section id="one"> 
     <div class="inner">
@@ -140,7 +155,7 @@ var swiper = new Swiper('.swiper-container', {
 -->
 
 <!-- section2 -->     
-  <section id="two" class="spotlights">
+  
     <section>
         <img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f91q0elykhj20im0agdhr.jpg" alt="" data-position="center center">
       <div class="content">
