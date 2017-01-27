@@ -31,61 +31,7 @@ nav-menu: true
     <header class="major">
     小标题1
     </header>
-    段落1
-    </div><p></p>
-  </section><p></p>
-<!-- section2 -->     
-  <section id="two" class="spotlights">
-    <section>
-      <a href="generic.html">
-        <img src="assets/images/pic08.jpg" alt="" data-position="center center">
-      </a>
-      <div class="content">
-        <div class="inner">
-          <header class="major">
-          小标题2
-          </header>
-          段落2
-          <em><a href="generic.html">链接</a></em>
-        </div>
-      </div>
-    </section>
-    <section>
-    <em><a href="generic.html"><img src="assets/images/pic09.jpg" alt="" data-position="top center"></a></em>
-    <div class="content">
-    <em></em>
-    <div class="inner"><em><header class="major">小标题3</header>段落3</em></div></div></section>
-
-<section><a href="generic.html"><img src="assets/images/pic10.jpg" alt="" data-position="25% 25%"></a>
-
-<div class="content"><div class="inner"><header class="major">小标题4</header>段落4<em></em></div></div></section><em><p></p></em></section><em><p></p></em>
-
-<!-- section3 --> 
-  <section id="three">
-    <em></em>
-    <div class="inner">
-    <em><header class="major">小标题5</header>段落5</em>
-    </div>
-  </section>
-  <p></p>
-
-  <link rel="stylesheet" href="/assets/css/swiper.min.css">
-<style>
-    body {}
-    .swiper-container {
-          width: 100%;
-          padding-top: 50px;
-          padding-bottom: 50px;
-      }
-    .swiper-slide {
-          background-position: center;
-          background-size: cover;
-          width: 300px;
-          height: 300px;
-      }
-</style>
-
-<p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
+    <p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
 
 mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca` 
 
@@ -171,11 +117,64 @@ var swiper = new Swiper('.swiper-container', {
     });
 </script>
 
-
-
-
 <iframe width="760px" height="500px" src="https://sway.com/s/8CsBDymPwIEAei84/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
 
+    </div><p></p>
+  </section><p></p>
+
+
+
+  
+<!-- section2 -->     
+  <section id="two" class="spotlights">
+    <section>
+      <a href="generic.html">
+        <img src="assets/images/pic08.jpg" alt="" data-position="center center">
+      </a>
+      <div class="content">
+        <div class="inner">
+          <header class="major">
+          小标题2
+          </header>
+          段落2
+          <em><a href="generic.html">链接</a></em>
+        </div>
+      </div>
+    </section>
+    <section>
+    <em><a href="generic.html"><img src="assets/images/pic09.jpg" alt="" data-position="top center"></a></em>
+    <div class="content">
+    <em></em>
+    <div class="inner"><em><header class="major">小标题3</header>段落3</em></div></div></section>
+
+<section><a href="generic.html"><img src="assets/images/pic10.jpg" alt="" data-position="25% 25%"></a>
+
+<div class="content"><div class="inner"><header class="major">小标题4</header>段落4<em></em></div></div></section><em><p></p></em></section><em><p></p></em>
+
+<!-- section3 --> 
+  <section id="three">
+    <em></em>
+    <div class="inner">
+    <em><header class="major">小标题5</header>段落5</em>
+    </div>
+  </section>
+  <p></p>
+
+  <link rel="stylesheet" href="/assets/css/swiper.min.css">
+<style>
+    body {}
+    .swiper-container {
+          width: 100%;
+          padding-top: 50px;
+          padding-bottom: 50px;
+      }
+    .swiper-slide {
+          background-position: center;
+          background-size: cover;
+          width: 300px;
+          height: 300px;
+      }
+</style>
 
 
 
