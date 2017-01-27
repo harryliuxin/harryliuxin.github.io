@@ -69,7 +69,7 @@ var swiper = new Swiper('.swiper-container', {
     });
 </script>
 
- <h2> 喜欢设计</h2>
+<h2> 喜欢设计</h2>
 
 <div class="swiper-container">
     <div class="swiper-wrapper">
