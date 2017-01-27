@@ -16,24 +16,25 @@
 <section id="one">
 	<div class="inner">
 		<header class="major">
+<!-- title -->
 			<h1>{{ page.title }}</h1>
+<!-- description -->	
+			<h2>{{ page.description }}</h2>
 		</header>
 <!-- 日期 -->		
 		{% if page.date %}
-		{{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }} 转载请注明：<a href = "http://liuxin.in/">liuxin.in</a> </div>
+		{{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }} 转载请注明来源：<a href = "http://liuxin.in/">liuxin.in</a> </div>
 		{% endif %}
 <!-- 图片 -->		
 		<!-- 
 		{% if page.image %}
 		<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
 		{% endif %} -->
-
-
-
+<!-- 正文 -->
 		<p>{{ content }}</p>
 	</div>
+	
 </section>
-
 </div>
 
     {% include footer.html %}
