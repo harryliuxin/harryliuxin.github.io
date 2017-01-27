@@ -23,22 +23,6 @@ nav-menu: true
   </div>
 </section>
 
-<!-- 正文 -->
-<div id="main">
-<!-- section1 --> 
-  <section id="one"> 
-    <div class="inner">
-    <header class="major">
-    小标题1
-    </header>
-    <p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
-    </div><p></p>
-  </section><p></p>
-
-    
-
-mail: `15514657777@163.com` 或 `x399liu@uwaterloo.ca` 
-
 <h2> 喜欢摄影 Love Taking Pictures</h2>
 
 <div class="swiper-container">
@@ -124,7 +108,17 @@ var swiper = new Swiper('.swiper-container', {
 <iframe width="760px" height="500px" src="https://sway.com/s/8CsBDymPwIEAei84/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
 
 
-
+<!-- 正文 -->
+<div id="main">
+<!-- section1 --> 
+  <section id="one"> 
+    <div class="inner">
+    <header class="major">
+    小标题1
+    </header>
+    <p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
+    </div><p></p>
+  </section><p></p>
 
 <!-- section2 -->     
   <section id="two" class="spotlights">
