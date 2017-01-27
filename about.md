@@ -23,7 +23,7 @@ nav-menu: true
   </div>
 </section>
 
-<h2> 喜欢摄影 Love Taking Pictures</h2>
+<h2 align="center"> 喜欢摄影 Love Taking Pictures</h2>
 
 <link rel="stylesheet" href="/assets/css/swiper.min.css">
 <style>
@@ -81,7 +81,7 @@ var swiper = new Swiper('.swiper-container', {
     });
 </script>
 
-<h2> 喜欢设计</h2>
+<h2 align="center"> 喜欢设计</h2>
 
 <div class="swiper-container">
     <div class="swiper-wrapper">
@@ -121,13 +121,15 @@ var swiper = new Swiper('.swiper-container', {
     });
 </script>
 
+<!-- 
 <iframe width="760px" height="500px" src="https://sway.com/s/8CsBDymPwIEAei84/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
+-->
 
 
 <!-- 正文 -->
 <div id="main">
 <!-- section1 --> 
-  <section id="one"> 
+<!--  <section id="one"> 
     <div class="inner">
     <header class="major">
     小标题1
@@ -135,20 +137,20 @@ var swiper = new Swiper('.swiper-container', {
     <p>我叫刘鑫，一个默默无闻的单身好青年，理想是做一个浪漫科研狗。</p>
     </div><p></p>
   </section><p></p>
+-->
 
 <!-- section2 -->     
   <section id="two" class="spotlights">
     <section>
       <a href="generic.html">
-        <img src="assets/images/pic08.jpg" alt="" data-position="center center">
+        <img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f91q0elykhj20im0agdhr.jpg" alt="" data-position="center center">
       </a>
       <div class="content">
         <div class="inner">
           <header class="major">
-          小标题2
+          <h2> 喜欢篮球</h2>
           </header>
-          段落2
-          <em><a href="generic.html">链接</a></em>
+          这是我高中时，记得那次比赛班里没来一个女生加油，最后还是争气地赢了:)
         </div>
       </div>
     </section>
@@ -156,7 +158,7 @@ var swiper = new Swiper('.swiper-container', {
     <em><a href="generic.html"><img src="assets/images/pic09.jpg" alt="" data-position="top center"></a></em>
     <div class="content">
     <em></em>
-    <div class="inner"><em><header class="major">小标题3</header>段落3</em></div></div></section>
+    <div class="inner"><em><header class="major">小标题3</header>段落3<em><a href="generic.html">链接</a></em></em></div></div></section>
 
 <section><a href="generic.html"><img src="assets/images/pic10.jpg" alt="" data-position="25% 25%"></a>
 
@@ -175,12 +177,12 @@ var swiper = new Swiper('.swiper-container', {
 
 
 
-
+<!--
  <h2> 喜欢吉他</h2>
 
 <iframe width="760px" height="500px" src="https://sway.com/s/RUcEizqz03GJxRmX/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
 
- <h2> 喜欢篮球</h2>
+<h2> 喜欢篮球</h2>
 <div class="image fit">
 <img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f91q0elykhj20im0agdhr.jpg" />
 <img src="http://ww3.sinaimg.cn/mw690/8db2c8cbgw1f91q0cz3ddj20zk0qodjy.jpg" />
@@ -189,6 +191,8 @@ var swiper = new Swiper('.swiper-container', {
  <h2> 喜欢视频制作</h2>
 
 <iframe width="760px" height="500px" src="https://sway.com/s/kLIYRTg8Gd2i5Tzf/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
+
+--> 
 
  <h2> 不喜欢填坑</h2>
 
