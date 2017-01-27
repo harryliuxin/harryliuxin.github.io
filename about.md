@@ -93,8 +93,18 @@ var swiper = new Swiper('.swiper-container', {
         }
     });
 </script>
+</div>
+      </div>
+    </section>
 
-<h2 align="center"> 喜欢设计</h2>
+
+
+<section>
+      <div class="content">
+        <div class="inner">
+          <header class="major">
+          <h2 align="center"> 喜欢设计 </h2>
+          </header>
 
 <div class="swiper-container">
     <div class="swiper-wrapper">
