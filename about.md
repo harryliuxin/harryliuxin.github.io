@@ -142,20 +142,19 @@ var swiper = new Swiper('.swiper-container', {
 <!-- section2 -->     
   <section id="two" class="spotlights">
     <section>
-      <a href="generic.html">
         <img src="http://ww1.sinaimg.cn/mw690/8db2c8cbgw1f91q0elykhj20im0agdhr.jpg" alt="" data-position="center center">
-      </a>
       <div class="content">
         <div class="inner">
           <header class="major">
           <h2> 喜欢篮球</h2>
           </header>
-          这是我高中时，记得那次比赛班里没来一个女生加油，最后还是争气地赢了:)
+          这是我高中时打完球和老班的合照，记得那次比赛班里没来一个女生加油，最后还是争气地赢了:)
         </div>
       </div>
     </section>
+
     <section>
-    <em><a href="generic.html"><img src="assets/images/pic09.jpg" alt="" data-position="top center"></a></em>
+      <em><a href="generic.html"><img src="assets/images/pic10.jpg" alt="" data-position="top center"></a></em>
     <div class="content">
     <em></em>
     <div class="inner"><em><header class="major">小标题3</header>段落3<em><a href="generic.html">链接</a></em></em></div></div></section>
