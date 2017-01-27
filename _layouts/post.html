@@ -20,11 +20,11 @@
 			<h1>{{ page.title }}</h1>
 <!-- description -->	
 			<h5>{{ page.description }}</h5>
-		</header>
 <!-- 日期 -->		
 		{% if page.date %}
-		{{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }} 转载请注明来源：<a href = "http://liuxin.in/">liuxin.in</a> </div>
+		{{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }}
 		{% endif %}
+		</header>
 <!-- 图片 -->		
 		<!-- 
 		{% if page.image %}

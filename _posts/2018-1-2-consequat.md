@@ -19,6 +19,20 @@ date : 2018-01-02
   </ul>
 
 
+
+{% for item in (0..site.categories.size) %}{% unless forloop.last %}
+{% capture word %}{{ category[item] | strip_newlines }}{% endcapture %}
+<h2 class="category" id="{{ word }}">{{ word }}</h2>
+
+{% for post in site.categories[word] %}{% if post.title != null %}
+<ul><li class="category-sub">{{ post.date | date: "%Y-%m-%d" }}&nbsp;&nbsp;&raquo;&nbsp;&nbsp;<a class="category-sub-title" href="{{ post.url }}">{{ post.title }}</a></li></ul>
+{% endif %}{% endfor %}
+{% endunless %}{% endfor %}
+<br/><br/>
+
+
+
+
 <section id="one" class="tiles">
 {% for post in site.posts limit:site.tiles-count %}
 <article>
