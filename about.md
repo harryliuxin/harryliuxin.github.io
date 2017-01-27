@@ -1,7 +1,7 @@
 ---
 title: 我的故事 My stories 
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 博主为一名大三留学生，现在在加拿大University of Waterloo就读NMS, 却不是一个正经的科研狗。<br /喜欢摄影，绘画，吉他，篮球，设计，制作视频，3d打印，仿真模拟。不妨看看我的故事。
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
