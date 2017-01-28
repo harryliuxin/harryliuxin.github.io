@@ -1,9 +1,9 @@
----
+<!-- ---
 title: 我的故事 My stories 
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
----
+--- -->
 <!-- banner -->
 <section id="banner" class="style2">
   <div class="inner">
