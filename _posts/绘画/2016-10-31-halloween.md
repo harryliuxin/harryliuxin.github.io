@@ -2,7 +2,7 @@
 layout: post
 title: Halloween dressing up [comic strip]
 date: 2016-10-31
-category: "绘画", "diary"
+category: "绘画"
 duoshuo: ture
 description: "漫画——《我的万圣节装扮》"
 
