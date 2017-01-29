@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: 总目录 Categories
+title: 目录 Category
 description: 这是所有目录的汇总 All the categories are included.
 image: assets/images/pic05.jpg
 date : 2018-01-02
