@@ -1,5 +1,5 @@
 ---
-layout: life
+layout: post
 title: "Formatting Samples"
 date: 2016-02-01
 category: diary
