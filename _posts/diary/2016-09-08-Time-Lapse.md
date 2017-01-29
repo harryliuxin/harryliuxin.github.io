@@ -3,11 +3,6 @@ layout: post
 title: "Time Lapse"
 date: 2016-09-08 08:39:47
 description: "延时摄影"
-main-class: 'svg'
-color: '#7D669E'
-tags:
-- photography
-image: "bg.jpg"
 categories:
 - "摄影"
 twitter_text: "延时摄影"
