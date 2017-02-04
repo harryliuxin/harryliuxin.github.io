@@ -67,10 +67,10 @@
 	}
 }
 ::selection {
-	background:#F0F7FA;
+	background:#1abc9c;
 }
 ::-moz-selection {
-	background:#F0F7FA;
+	background:#1abc9c;
 }
 
 body {
@@ -80,7 +80,7 @@ body {
 	letter-spacing:2px;
 	border-radius:3px;
 	color: #333;
-	background: url(../img/b2.jpg) repeat top left;
+	background: url(/assets/imges/b1.jpg) repeat top left;
 }
 h1 {
 	font-weight:lighter;
@@ -90,7 +90,7 @@ h1 {
 	letter-spacing:1px;
 	line-height:1.6;
 	width:65%;
-	background-color:rgba(242,242,242,200);
+	background-color:rgba(242,242,242,242);
 	overflow:hidden;
 	padding:20px;
 	padding-top:30px;

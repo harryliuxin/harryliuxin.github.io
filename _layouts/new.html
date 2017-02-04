@@ -7,10 +7,10 @@
   <meta name="author" content="{{ site.author.name }}">
   <meta name="keywords" content="{{ page.title }}, {{ site.blog.name }}, {{ page.title }} - {{ site.blog.name }}">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.blog.title }}{% endif %} - {{ site.blog.name }}</title>
-  <link rel="icon" href="/res/img/shortimg.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="/res/img/shortimg.ico" type="image/x-icon">
+  <link rel="icon" href="/assets/imges/hp.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="/assets/imges/hp.ico" type="image/x-icon">
   <link rel="canonical" href="{{ site.blog.url }}{{ page.url }}">
-  <link rel="stylesheet" href="/assets/css/public.css">
+
   <link rel="stylesheet" href="/assets/css/newlight.css">
   <link rel="stylesheet" href="/assets/css/new.css">
   <link rel="stylesheet" href="/assets/css/pygments.css">
@@ -19,7 +19,7 @@
 <body>
   <div class="main">
     <div class="title">{{ page.title }}</div>
-    {% if page.meta != false %}<div class="post-info"><i class="fa fa-clock-o"></i>&nbsp;{{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }} 转载请注明：<a href = "http://liuxin.in/">liuxin.in</a> </div>{% endif %}
+    {% if page.meta != false %}<div class="post-info"><i class="fa fa-clock-o"></i>&nbsp;>{{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }} 转载请注明：<a href = "http://liuxin.in/">liuxin.in</a> </div>{% endif %}
     <div class="content">
     {{ content }}
     </div>
