@@ -1,34 +1,76 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-  <meta name="description" content="{{ site.blog.title }}">
-  <meta name="author" content="{{ site.author.name }}">
-  <meta name="keywords" content="{{ page.title }}, {{ site.blog.name }}, {{ page.title }} - {{ site.blog.name }}">
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.blog.title }}{% endif %} - {{ site.blog.name }}</title>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    {% if page.title %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% else %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% endif %}
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/simple/poole.css">
+  <link rel="stylesheet" href="/assets/css/simple/syntax.css">
+  <link rel="stylesheet" href="/assets/css/simple/lanyon.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+
+
 </head>
-<body>
-  <div class="main">
-    <div class="title">{{ page.title }}</div>
-    {% if page.meta != false %}<div class="post-info"><i class="fa fa-clock-o"></i>&nbsp;>{{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }} 转载请注明：<a href = "http://liuxin.in/">liuxin.in</a> </div>{% endif %}
-    <div class="content">
-    {{ content }}
+
+
+
+  <body>
+
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+          <h3 class="masthead-title">
+            <a href="/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+
+
+
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+
+</div>
     </div>
 
-    <div class="pagination">
-    {% if page.previous %}
-    <a class="pagination-item newer" href="{{ BASE_PATH }}{{ page.previous.url }}"><i class="fa fa-arrow-left"></i>&nbsp;&nbsp;{{ page.previous.title }}</a>
-    {% else %}
-    <span class="pagination-item newer">上一篇&nbsp;<i class="fa fa-chain-broken"></i></span>
-    {% endif %}
-
-    {% if page.next %}
-    <a class="pagination-item older" href="{{ BASE_PATH }}{{ page.next.url }}">{{ page.next.title }}&nbsp;&nbsp;<i class="fa fa-arrow-right"></i></a>
-    {% else %}
-    <span class="pagination-item older">下一篇&nbsp;<i class="fa fa-chain-broken"></i></span>
-    {% endif %}
-    </div>
-
-</body>
+  </body>
 </html>
