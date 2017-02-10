@@ -11,9 +11,34 @@ description: "上星期和同学一起录的，一次成，超开心"
 Your browser does not support this audio format.
 </audio>
 
-<a href="/assets/falling.mp3">Play my Song</a>
-<script type="text/javascript" src="http://mediaplayer.yahoo.com/js">
-</script>
+
+
+<link rel="stylesheet" href="/assets/css/audio.css">
+<script language="JavaScript" src="/assets/js/audio.js"></script>
+
+<audio id='audio'>你的浏览器不支持喔！</audio>
+
+<div class='MusicPanel'>
+<div class='PanelLeft'><div class='circle'><span class='icon glyphicon-heart'></span></div></div> <!-- Like Button -->
+
+<div class='PanelRight'>
+<div class='Prev'><span class='icon glyphicon-step-backward'></span></div> <!-- Prev Song Button -->
+<div id='Play' class='Play'><span class='icon glyphicon-play'></span></div> <!-- Play & Pause Button -->
+<div class='Next'><span class='icon glyphicon-step-forward'></span></div> <!-- Next Song Button -->
+<div class="Song"><span class='SongAuthor'>Greyson Chance</span></br><span class='SongName'>Summertrain</span></div> <!-- Song Title -->
+
+<div class="Process"> <!-- Process -->
+<div class="ProcessAll" ></div> <!-- ProcessAll -->
+<div class="ProcessNow"></div> <!-- ProcessNow -->
+<div class="SongTime">00:00&nbsp;|&nbsp;00:00</div> <!-- Time -->
+</div> <!-- Process End -->
+</div> <!-- PanelRight End -->
+</div> <!-- MusicPanel End -->
+
+
+
+
+
 
 ![1](http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fcl88phzoyj20qo0zk0v7.jpg)
 ![2](http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fcl89c5hjfj20pg0sxjw7.jpg)
