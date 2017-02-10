@@ -7,7 +7,7 @@ description: "上星期和同学一起录的，一次成，超开心"
 ---
 
 <audio controls="controls">
-  <source src="falling.mp3" type="audio/mp3" />
+  <source src="/assets/falling.mp3" type="audio/mp3" />
 Your browser does not support this audio format.
 </audio>
 
