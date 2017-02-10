@@ -7,7 +7,7 @@ description: "上星期和同学一起录的，一次成，超开心"
 ---
 
 <audio controls="controls">
-  <source src="/assets/falling.mp3" type="audio/mp3" />
+  <source src="/assets/falling.mp3" width=300 height=45 type="audio/mp3" />
 Your browser does not support this audio format.
 </audio>
 
@@ -16,25 +16,51 @@ Your browser does not support this audio format.
 <link rel="stylesheet" href="/assets/css/audio.css">
 <script type="text/javascript" src="/assets/js/audio.js"></script>
 
-<audio id='audio' src="/assets/falling.mp3">你的浏览器不支持喔！</audio>
+<link rel="stylesheet" href="/assets/audio/css/style.css" media="screen" type="text/css" />
+<script type="text/javascript">
+window.onload=function(){
 
-<div class='MusicPanel'>
-<div class='PanelLeft'><div class='circle'><span class='icon glyphicon-heart'></span></div></div> <!-- Like Button -->
+   var canvas=document.getElementById('canvas');
+   if(canvas.getContext){
+		var ctx=canvas.getContext("2d");
+		ctx.beginPath();
+		ctx.strokeStyle='darkgreen';
+		ctx.lineCap='round';
+		ctx.lineWidth=6;
+		ctx.arc(160,160,150,0,Math.PI,false);
+		ctx.stroke();
+   }
+					   
+}
+</script>
 
-<div class='PanelRight'>
-<div class='Prev'><span class='icon glyphicon-step-backward'></span></div> <!-- Prev Song Button -->
-<div id='Play' class='Play'><span class='icon glyphicon-play'></span></div> <!-- Play & Pause Button -->
-<div class='Next'><span class='icon glyphicon-step-forward'></span></div> <!-- Next Song Button -->
-<div class="Song"><span class='SongAuthor'>LIU XIN</span></br><span class='SongName'>Falling slowly</span></div> <!-- Song Title -->
+</head>
 
-<div class="Process"> <!-- Process -->
-<div class="ProcessAll" ></div> <!-- ProcessAll -->
-<div class="ProcessNow"></div> <!-- ProcessNow -->
-<div class="SongTime">00:00&nbsp;|&nbsp;00:00</div> <!-- Time -->
-</div> <!-- Process End -->
-</div> <!-- PanelRight End -->
-</div> <!-- MusicPanel End -->
+<body>
+<div id="container">
+	<canvas id="canvas" width="320" height="320">对不起，你的浏览器不支持Canvas标签！</canvas>
+	<canvas id="progress" width="320" height="320"></canvas><!-- progress bar -->
+	<div id="player">
+		<audio id="audio" controls>
+			<source src="/assets/falling.mp3" type="audio/mpeg" codecs="mp3"></source>		
+		</audio>
+		<div class="cover">
+			<div class="controls">
+				<div class="play_pause" id="play" title="Play" onClick="togglePlay()"><i>&#xe600;</i></div>
+				<div class="play_pause" id="replay"  onclick="replayAudio()"><i>&#xe607;</i></div>
+				<div class="voice"><i>&#xe608;</i><input id="volume" name="volume" min="0" max="1" step="0.1" type="range" onChange="setVolume()" /></div>
+				<div id="times">00:00/00:00</div>
+			</div><!-- #controls -->
+			<div class="info">
+				<p class="song"><a href="#" target="_blank">Falling Slowly</a></p>
+				<p class="author"><a href="#" target="_blank">Liu Xin</a></p>
+			</div>
+		</div><!-- #cover -->
+	</div><!-- #player -->
 
+</div><!-- #container -->
+
+<script src="/assets/audio/js/index.js"></script>
 
 
 
