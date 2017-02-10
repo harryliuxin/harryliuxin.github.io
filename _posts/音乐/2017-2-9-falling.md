@@ -5,7 +5,7 @@ date: 2017-2-9
 category: 音乐
 description: "上星期和同学一起录的，一次录成，qiao开心"
 ---
-这是我花了一个星期的时间改编的一个html5的/<audio/>标签代码，是不是很萌啊～具体内容我放在后面了，先听歌先听歌～
+这是我花了一个星期的时间改编的一个html5的audio播放器代码，是不是很萌啊～具体内容我放在后面了，先听歌先听歌～
 
 <link rel="stylesheet" href="/assets/css/audio.css" media="screen" type="text/css" />
 
