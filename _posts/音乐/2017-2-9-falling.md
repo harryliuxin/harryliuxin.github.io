@@ -26,15 +26,16 @@ description: "上星期和同学一起录的，一次成，超开心"
 
 
 这是index，我机智的用了iframe, 然后嵌入了另一个index，在下一个index中我们放入css和js等，这样一来不会让我的文章看得很乱，二来避免了播放器的css和js等和主网页有冲突。
-> <div style="text-align:center;clear:both">
-	<script src="/gg_bd_ad_720x90.js" type="text/javascript"></script>
-	<script src="/follow.js" type="text/javascript"></script>
-	</div>
-	<iframe frameborder="0" scrolling="no" src="/assets/audio/music.html" width="80%" height="300px"></iframe>
+
+		<div style="text-align:center;clear:both">
+		<script src="/gg_bd_ad_720x90.js" type="text/javascript"></script>
+		<script src="/follow.js" type="text/javascript"></script>
+		</div>
+		<iframe frameborder="0" scrolling="no" src="/assets/audio/music.html" width="80%" height="300px"></iframe>
 
 
 这是我的第二个index，也就是上面的`/assets/audio/music.html`:
-> <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -81,23 +82,23 @@ window.onload=function(){
 </html>
 
 下面是js：
->var audio = document.getElementById('audio');
-var progress = document.getElementById('progress');
-var playpause = document.getElementById("play");
-var replay = document.getElementById("replay");
-var volume = document.getElementById("volume");
-var time=document.getElementById('times');
-audio.controls = false;
-// audio.autoplay=true;
-audio.addEventListener('timeupdate', function() {	
-  	updateProgress();
-	  var	aTime =parseInt(audio.currentTime);
-	  var   aLength =parseInt(audio.duration) ; 
-	  if(aTime<10){
-	  		time.innerHTML='00:0'+aTime+'/00:'+aLength;
-	  }else{
-	  	 time.innerHTML='00:'+aTime+'/00:'+aLength;
-	  }
+	var audio = document.getElementById('audio');
+	var progress = document.getElementById('progress');
+	var playpause = document.getElementById("play");
+	var replay = document.getElementById("replay");
+	var volume = document.getElementById("volume");
+	var time=document.getElementById('times');
+	audio.controls = false;
+	// audio.autoplay=true;
+	audio.addEventListener('timeupdate', function() {	
+	  	updateProgress();
+		  var	aTime =parseInt(audio.currentTime);
+		  var   aLength =parseInt(audio.duration) ; 
+		  if(aTime<10){
+		  		time.innerHTML='00:0'+aTime+'/00:'+aLength;
+		  }else{
+		  	 time.innerHTML='00:'+aTime+'/00:'+aLength;
+		  }
       
 	}, false);
 function togglePlay() {
