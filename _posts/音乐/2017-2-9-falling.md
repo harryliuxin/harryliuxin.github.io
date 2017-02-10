@@ -3,7 +3,7 @@ layout: post
 title: "falling slowly"
 date: 2017-2-9
 category: 音乐
-description: "上星期和同学一起录的，一次成，超开心"
+description: "上星期和同学一起录的，一次录成，qiao开心"
 ---
 这是我花了一个星期的时间改编的一个html5的/<audio/>标签代码，是不是很萌啊～具体内容我放在后面了，先听歌先听歌～
 
@@ -13,14 +13,14 @@ description: "上星期和同学一起录的，一次成，超开心"
 <script src="/gg_bd_ad_720x90.js" type="text/javascript"></script>
 <script src="/follow.js" type="text/javascript"></script>
 </div>
-<iframe frameborder="0" scrolling="no" src="/assets/audio/music.html" width="100%" height="500px"></iframe>
+<iframe frameborder="0" scrolling="no" src="/assets/audio/music.html" width="70%" height="500px"></iframe>
 
 
 
-![1](http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fcl88phzoyj20qo0zk0v7.jpg)
-![2](http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fcl89c5hjfj20pg0sxjw7.jpg)
-![3](http://wx2.sinaimg.cn/mw690/8db2c8cbgy1fcl891vtg2j211i11itn8.jpg)
-![4](http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fcl88mkt1dj20zk0qojtm.jpg)
+![1](http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fclb5eeahgj20dw0ijmy2.jpg)
+![2](http://wx1.sinaimg.cn/mw690/8db2c8cbgy1fclb5jipsoj20dw0fs75s.jpg)
+![3](http://wx4.sinaimg.cn/mw690/8db2c8cbgy1fclb5ghiqyj20dw0dwq4w.jpg)
+![4](http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fclb5cintij20dw0af74q.jpg)
 
 ><link rel="stylesheet" href="/assets/css/audio.css" media="screen" type="text/css" />
 
