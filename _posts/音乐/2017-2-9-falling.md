@@ -11,6 +11,10 @@ description: "上星期和同学一起录的，一次成，超开心"
 Your browser does not support this audio format.
 </audio>
 
+<a href="/assets/falling.mp3">Play my Song</a>
+<script type="text/javascript" src="http://mediaplayer.yahoo.com/js">
+</script>
+
 ![1](http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fcl88phzoyj20qo0zk0v7.jpg)
 ![2](http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fcl89c5hjfj20pg0sxjw7.jpg)
 ![3](http://wx2.sinaimg.cn/mw690/8db2c8cbgy1fcl891vtg2j211i11itn8.jpg)
