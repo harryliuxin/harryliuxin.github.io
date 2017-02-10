@@ -14,9 +14,9 @@ Your browser does not support this audio format.
 
 
 <link rel="stylesheet" href="/assets/css/audio.css">
-<script language="JavaScript" src="/assets/js/audio.js"></script>
+<script type="text/javascript" src="/assets/js/audio.js"></script>
 
-<audio id='audio'>你的浏览器不支持喔！</audio>
+<audio id='audio' src="/assets/falling.mp3">你的浏览器不支持喔！</audio>
 
 <div class='MusicPanel'>
 <div class='PanelLeft'><div class='circle'><span class='icon glyphicon-heart'></span></div></div> <!-- Like Button -->
@@ -25,7 +25,7 @@ Your browser does not support this audio format.
 <div class='Prev'><span class='icon glyphicon-step-backward'></span></div> <!-- Prev Song Button -->
 <div id='Play' class='Play'><span class='icon glyphicon-play'></span></div> <!-- Play & Pause Button -->
 <div class='Next'><span class='icon glyphicon-step-forward'></span></div> <!-- Next Song Button -->
-<div class="Song"><span class='SongAuthor'>Greyson Chance</span></br><span class='SongName'>Summertrain</span></div> <!-- Song Title -->
+<div class="Song"><span class='SongAuthor'>LIU XIN</span></br><span class='SongName'>Falling slowly</span></div> <!-- Song Title -->
 
 <div class="Process"> <!-- Process -->
 <div class="ProcessAll" ></div> <!-- ProcessAll -->
