@@ -13,14 +13,14 @@ description: "上星期和同学一起录的，一次录成，qiao开心"
 <script src="/gg_bd_ad_720x90.js" type="text/javascript"></script>
 <script src="/follow.js" type="text/javascript"></script>
 </div>
-<iframe frameborder="0" scrolling="no" src="/assets/audio/music.html" width="70%" height="500px"></iframe>
+<iframe frameborder="0" scrolling="no" src="/assets/audio/music.html" width="100%" height="450px"></iframe>
 
 
 
-![1](http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fclb5eeahgj20dw0ijmy2.jpg)
-![2](http://wx1.sinaimg.cn/mw690/8db2c8cbgy1fclb5jipsoj20dw0fs75s.jpg)
-![3](http://wx4.sinaimg.cn/mw690/8db2c8cbgy1fclb5ghiqyj20dw0dwq4w.jpg)
-![4](http://wx3.sinaimg.cn/mw690/8db2c8cbgy1fclb5cintij20dw0af74q.jpg)
+![1](http://wx1.sinaimg.cn/mw690/8db2c8cbgy1fclbfcqbqdj208c09hjrk.jpg)
+![2](http://wx2.sinaimg.cn/mw690/8db2c8cbgy1fclbffsvsej208c09haaj.jpg)
+![3](http://wx4.sinaimg.cn/mw690/8db2c8cbgy1fclbfea5a8j208c08cjs1.jpg)
+![4](http://wx2.sinaimg.cn/mw690/8db2c8cbgy1fclbfay0xfj208c08c3yn.jpg)
 
 ><link rel="stylesheet" href="/assets/css/audio.css" media="screen" type="text/css" />
 
