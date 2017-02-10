@@ -13,7 +13,7 @@ description: "上星期和同学一起录的，一次录成，qiao开心"
 <script src="/gg_bd_ad_720x90.js" type="text/javascript"></script>
 <script src="/follow.js" type="text/javascript"></script>
 </div>
-<iframe frameborder="0" scrolling="no" src="/assets/audio/music.html" width="100%" height="450px"></iframe>
+<iframe frameborder="0" scrolling="no" src="/assets/audio/music.html" width="400px" height="400px"></iframe>
 
 
 
@@ -40,7 +40,7 @@ description: "上星期和同学一起录的，一次录成，qiao开心"
 	<html>
 	<head>
 	<meta charset="UTF-8">
-	<title>HTML5笑脸样式的音乐播放器DEMO演示</title>
+	<title>HTML5笑脸样式音乐播放器DEMO</title>
 	<link rel="stylesheet" href="/assets/audio/css/style.css" media="screen" type="text/css" />
 	<script type="text/javascript">
 	window.onload=function(){
