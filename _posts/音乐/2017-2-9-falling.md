@@ -13,7 +13,7 @@ description: "上星期和同学一起录的，一次成，超开心"
 <script src="/gg_bd_ad_720x90.js" type="text/javascript"></script>
 <script src="/follow.js" type="text/javascript"></script>
 </div>
-<iframe frameborder="0" scrolling="no" src="/assets/audio/music.html" width="80%" height="300px"></iframe>
+<iframe frameborder="0" scrolling="no" src="/assets/audio/music.html" width="60%" height="500px"></iframe>
 
 
 
