@@ -56,6 +56,16 @@
 					<integer>12</integer>
 				</dict>
 			</dict>
+			<key>2017-02-11-f.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>508565810.67594701</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>34</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -75,6 +85,9 @@
 		<array>
 			<string>2017-01-23-com3.md</string>
 		</array>
+		<array>
+			<string>2017-02-11-f.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -83,7 +96,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>31</integer>
+			<integer>35</integer>
 		</dict>
 	</dict>
 </dict>
