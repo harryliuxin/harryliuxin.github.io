@@ -86,16 +86,6 @@
 					<integer>34</integer>
 				</dict>
 			</dict>
-			<key>2017-02-12-c1.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>508799802.76150501</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>59</integer>
-				</dict>
-			</dict>
 			<key>2017-02-12-q1.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -104,6 +94,54 @@
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
 					<integer>47</integer>
+				</dict>
+			</dict>
+			<key>2017-02-14-c1.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>508811628.61588198</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>61</integer>
+				</dict>
+			</dict>
+			<key>2017-02-14-c1副本.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>508811638.753088</real>
+				<key>lastModification</key>
+				<real>508811681.54729402</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>64</integer>
+				</dict>
+			</dict>
+			<key>2017-02-14-c2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>508811752.090482</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>67</integer>
+				</dict>
+			</dict>
+			<key>Basic Concepts.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>508812025.38825297</real>
+				<key>lastModification</key>
+				<real>508812025.38825297</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>69</integer>
 				</dict>
 			</dict>
 			<key>f.md</key>
@@ -125,7 +163,13 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-02-12-c1.md</string>
+			<string>Basic Concepts.md</string>
+		</array>
+		<array>
+			<string>2017-02-14-c2.md</string>
+		</array>
+		<array>
+			<string>2017-02-14-c1.md</string>
 		</array>
 		<array>
 			<string>2017-01-20-summary.md</string>
@@ -157,6 +201,9 @@
 		<array>
 			<string>2017-02-02-book2.md</string>
 		</array>
+		<array>
+			<string>2017-02-14-c1副本.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -165,7 +212,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>60</integer>
+			<integer>69</integer>
 		</dict>
 	</dict>
 </dict>
