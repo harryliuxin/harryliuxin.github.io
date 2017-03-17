@@ -118,12 +118,16 @@
 			</dict>
 			<key>phy335--晶格振动(中文笔记).md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>511459492.783822</real>
 				<key>lastModification</key>
-				<real>511457658.17865503</real>
+				<real>511459492.783822</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>74</integer>
+					<integer>76</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -174,7 +178,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>75</integer>
+			<integer>76</integer>
 		</dict>
 	</dict>
 </dict>
