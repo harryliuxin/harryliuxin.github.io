@@ -3,28 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>order</key>
-	<array>
-		<string>comsol/2017-02-12-q1.md</string>
-	</array>
+	<array/>
 	<key>resolutionData</key>
 	<dict>
 		<key>order</key>
-		<dict>
-			<key>comsol/2017-02-12-q1.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>508616347.77895701</real>
-				<key>lastModification</key>
-				<real>508616347.77895701</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>70</integer>
-				</dict>
-			</dict>
-		</dict>
+		<dict/>
 	</dict>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -33,7 +16,7 @@
 		<key>order</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>85</integer>
+			<integer>97</integer>
 		</dict>
 	</dict>
 </dict>

@@ -106,20 +106,6 @@
 					<integer>61</integer>
 				</dict>
 			</dict>
-			<key>2017-02-14-c1副本.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>508811638.753088</real>
-				<key>lastModification</key>
-				<real>508811681.54729402</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>64</integer>
-				</dict>
-			</dict>
 			<key>2017-02-14-c2.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -130,32 +116,14 @@
 					<integer>67</integer>
 				</dict>
 			</dict>
-			<key>Basic Concepts.md</key>
+			<key>phy335--晶格振动(中文笔记).md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>508812025.38825297</real>
 				<key>lastModification</key>
-				<real>508812025.38825297</real>
+				<real>511457658.17865503</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>69</integer>
-				</dict>
-			</dict>
-			<key>f.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>508571330.41833001</real>
-				<key>lastModification</key>
-				<real>508571330.41833001</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>40</integer>
+					<integer>74</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -163,10 +131,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Basic Concepts.md</string>
+			<string>2017-02-14-c2.md</string>
 		</array>
 		<array>
-			<string>2017-02-14-c2.md</string>
+			<string>phy335--晶格振动(中文笔记).md</string>
 		</array>
 		<array>
 			<string>2017-02-14-c1.md</string>
@@ -190,9 +158,6 @@
 			<string>2017-02-11-f.md</string>
 		</array>
 		<array>
-			<string>f.md</string>
-		</array>
-		<array>
 			<string>2017-02-12-q1.md</string>
 		</array>
 		<array>
@@ -200,9 +165,6 @@
 		</array>
 		<array>
 			<string>2017-02-02-book2.md</string>
-		</array>
-		<array>
-			<string>2017-02-14-c1副本.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -212,7 +174,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>69</integer>
+			<integer>75</integer>
 		</dict>
 	</dict>
 </dict>
