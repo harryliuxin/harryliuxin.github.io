@@ -136,6 +136,36 @@
 					<integer>83</integer>
 				</dict>
 			</dict>
+			<key>2017-03-23-f3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>512014396.26012999</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>100</integer>
+				</dict>
+			</dict>
+			<key>2017-03-23-f4 - 2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>512014321.63302499</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>96</integer>
+				</dict>
+			</dict>
+			<key>2017-03-23-f4.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>511992047.68237603</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>87</integer>
+				</dict>
+			</dict>
 			<key>phy335--晶格振动(中文笔记).md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -165,6 +195,15 @@
 		</array>
 		<array>
 			<string>2017-03-21-f2.md</string>
+		</array>
+		<array>
+			<string>2017-03-23-f4.md</string>
+		</array>
+		<array>
+			<string>2017-03-23-f4 - 2.md</string>
+		</array>
+		<array>
+			<string>2017-03-23-f3.md</string>
 		</array>
 		<array>
 			<string>2017-02-14-c1.md</string>
@@ -204,7 +243,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>84</integer>
+			<integer>101</integer>
 		</dict>
 	</dict>
 </dict>
