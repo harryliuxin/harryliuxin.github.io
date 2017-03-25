@@ -36,6 +36,12 @@
 
 /* Prevent scroll on narrow devices */
 html,
+::selection {
+  background:#1abc9c;
+}
+::-moz-selection {
+  background:#1abc9c;
+}
 body {
   overflow-x: hidden;
 }
