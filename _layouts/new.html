@@ -10,17 +10,15 @@
   <link rel="icon" href="/assets/imges/hp.ico" type="image/x-icon">
   <link rel="shortcut icon" href="/assets/imges/hp.ico" type="image/x-icon">
   <link rel="canonical" href="{{ site.blog.url }}{{ page.url }}">
-
   <link rel="stylesheet" href="/assets/css/new/newlight.css">
   <link rel="stylesheet" href="/assets/css/new/new.css">
 
-  {% include tongji.html %}
+
 </head>
 <body>
   <div class="main">
     <div class="title">{{ page.title }}</div>
-    <style> .riqi{text-align:center} </style> 
-    {% if page.meta != false %}<div class="riqi">{{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }} 转载请注明: liuxin.in</div>{% endif %}
+    {% if page.meta != false %}<div class="post-info">{{ page.date | date: "%Y" }}-{{ page.date | date: "%m" }}-{{ page.date | date: "%d" }} 转载请注明: liuxin.in</div>{% endif %}
     <div class="content">
     {{ content }}
     </div>
