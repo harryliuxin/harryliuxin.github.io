@@ -42,16 +42,17 @@
 }
 
 html,
-body {
-  ::selection {
+::selection {
   color:#ffffff;
   background-color:#1abc9c;}
+
+body {
   margin: 0;
   padding: 0;
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue","Microsoft YaHei", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
