@@ -36,11 +36,6 @@
 
 /* Prevent scroll on narrow devices */
 html,
-::selection {
-  color:#ffffff;
-  background-color:#1abc9c;
-}
-
 body {
   overflow-x: hidden;
 }
