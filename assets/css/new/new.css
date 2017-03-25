@@ -554,9 +554,9 @@ r:#008000}.vc{color:#19177C}.vg{color:#19177C}.vi{color:#19177C}.il{color:#66666
 		margin-bottom:5px;
 	}
 	.post-info {
+		text-align:center
 		font-size:16px;
-		margin-left:2px;
-		margin-bottom:-5px;
+		margin-bottom:-10px;
 	}
 	p,blockquote p,li {
 		font-size:16px;
