@@ -116,8 +116,8 @@ h1 {
 	letter-spacing:2px;
 }
 .post-info {
-	text-align:center
-	color:#cecccc;
+	margin:0 auto
+	color:#e0e0e0;
 	font-size:18px;
 }
 .content a {
