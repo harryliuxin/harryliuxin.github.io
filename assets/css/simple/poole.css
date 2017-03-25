@@ -42,9 +42,6 @@
 }
 
 html,
-::selection {
-  color:#ffffff;
-  background-color:#1abc9c;}
 
 body {
   margin: 0;
@@ -72,7 +69,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  color: #1abc9c;
   text-decoration: none;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -310,6 +307,9 @@ tbody tr:nth-child(odd) th {
 .post {
   margin-bottom: 4em;
 }
+::selection {
+  color:#ffffff;
+  background-color:#1abc9c;}
 
 /* Blog post or page title */
 .page-title,
