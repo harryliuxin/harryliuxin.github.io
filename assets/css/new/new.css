@@ -79,7 +79,7 @@ body {
 	margin-top:30px;
 	letter-spacing:2px;
 	border-radius:3px;
-	color: #333;
+	color: #525d67;
 	background: url(/assets/imges/b1.jpg) repeat top left;
 }
 h1 {
@@ -90,7 +90,7 @@ h1 {
 	letter-spacing:1px;
 	line-height:1.6;
 	width:65%;
-	background-color:rgba(242,242,242,242);
+	background-color:rgba(255,255,255,255);
 	overflow:hidden;
 	padding:20px;
 	padding-top:30px;
