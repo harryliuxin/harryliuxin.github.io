@@ -49,7 +49,7 @@ body {
 }
 
 html {
-  font-family: "Microsoft YaHei",SimHei, Helvetica, Arial, sans-serif;
+  font-family: Helvetica, "Microsoft YaHei",SimHei, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -60,7 +60,7 @@ html {
 }
 
 body {
-  font-family: "Microsoft YaHei",SimHei, Helvetica, Arial, sans-serif;
+  font-family: Helvetica, "Microsoft YaHei",SimHei, Helvetica, Arial, sans-serif;
   color: #515151;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
