@@ -179,11 +179,11 @@
 			<key>2017-03-23-f7.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>512096334.28160399</real>
+				<real>512411907.75996798</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>128</integer>
+					<integer>142</integer>
 				</dict>
 			</dict>
 			<key>2017-03-23-f8.md</key>
@@ -206,6 +206,16 @@
 					<integer>136</integer>
 				</dict>
 			</dict>
+			<key>continuity, momentum, and energy equations.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>512411907.77468503</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>143</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>512017041.986359</real>
@@ -220,6 +230,7 @@
 		</array>
 		<array>
 			<string>2017-03-23-f7.md</string>
+			<string>continuity, momentum, and energy equations.md</string>
 		</array>
 		<array>
 			<string>2017-02-14-c2.md</string>
@@ -282,7 +293,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>139</integer>
+			<integer>144</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

@@ -86,6 +86,36 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
+			<key>2017-03-18-phy3352.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>512272791.96810102</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>13</integer>
+				</dict>
+			</dict>
+			<key>2017-03-20-phy3353.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>512272944.57711601</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>25</integer>
+				</dict>
+			</dict>
+			<key>2017-03-26-phy3354.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>512272929.03323501</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>21</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -95,6 +125,15 @@
 		</array>
 		<array>
 			<string>2017-03-17-phy3351.md</string>
+		</array>
+		<array>
+			<string>2017-03-18-phy3352.md</string>
+		</array>
+		<array>
+			<string>2017-03-20-phy3353.md</string>
+		</array>
+		<array>
+			<string>2017-03-26-phy3354.md</string>
 		</array>
 		<array>
 			<string>2016-06-01-mns102.md</string>
@@ -122,7 +161,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>10</integer>
+			<integer>26</integer>
 		</dict>
 	</dict>
 </dict>
