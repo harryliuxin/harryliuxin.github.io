@@ -6,54 +6,54 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>2017-01-20-summary.md</key>
+			<key>2017-01-19-summary.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>506977361.87584698</real>
+				<real>513973795.77417397</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>169</integer>
 				</dict>
 			</dict>
-			<key>2017-01-21-com01.md</key>
+			<key>2017-01-20-intro1.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>507899091.53030598</real>
+				<real>513973786.03416902</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>30</integer>
+					<integer>167</integer>
 				</dict>
 			</dict>
-			<key>2017-01-21-com1.md</key>
+			<key>2017-01-21-exp1.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>506977361.875844</real>
+				<real>513973673.29639697</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>2</integer>
+					<integer>159</integer>
 				</dict>
 			</dict>
-			<key>2017-01-22-com2.md</key>
+			<key>2017-01-22-exp2.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>506977758.465074</real>
+				<real>513973682.63506401</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>5</integer>
+					<integer>161</integer>
 				</dict>
 			</dict>
-			<key>2017-01-23-com3.md</key>
+			<key>2017-01-23-exp3.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>507112042.04298502</real>
+				<real>513973688.765387</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>12</integer>
+					<integer>163</integer>
 				</dict>
 			</dict>
 			<key>2017-02-01-book1.md</key>
@@ -76,44 +76,94 @@
 					<integer>55</integer>
 				</dict>
 			</dict>
-			<key>2017-02-11-f.md</key>
+			<key>2017-02-03-book3.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>508565810.67594701</real>
+				<real>513973119.95932001</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>34</integer>
+					<integer>153</integer>
 				</dict>
 			</dict>
-			<key>2017-02-12-q1.md</key>
+			<key>2017-02-04-book4.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>508616134.94793999</real>
+				<real>513973303.77620399</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>47</integer>
+					<integer>157</integer>
 				</dict>
 			</dict>
-			<key>2017-02-14-c1.md</key>
+			<key>2017-02-05-book5.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>508811628.61588198</real>
+				<real>513974186.77539903</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>61</integer>
+					<integer>173</integer>
 				</dict>
 			</dict>
-			<key>2017-02-14-c2.md</key>
+			<key>2017-02-06-book6.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>508811752.090482</real>
+				<real>513974288.826967</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>67</integer>
+					<integer>177</integer>
+				</dict>
+			</dict>
+			<key>2017-02-07-book7.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>513974333.46059197</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>181</integer>
+				</dict>
+			</dict>
+			<key>2017-02-11-intro2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>513974476.12657797</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>183</integer>
+				</dict>
+			</dict>
+			<key>2017-02-12-intro3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>513974484.12885398</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>185</integer>
+				</dict>
+			</dict>
+			<key>2017-02-13-intro4.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>513974564.33485597</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>191</integer>
+				</dict>
+			</dict>
+			<key>2017-02-14-intro5.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>513974549.24862897</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>189</integer>
 				</dict>
 			</dict>
 			<key>2017-03-21-f1.md</key>
@@ -126,14 +176,14 @@
 					<integer>79</integer>
 				</dict>
 			</dict>
-			<key>2017-03-21-f2.md</key>
+			<key>2017-03-22-f2.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>511836663.53425401</real>
+				<real>513974581.98045403</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>83</integer>
+					<integer>193</integer>
 				</dict>
 			</dict>
 			<key>2017-03-23-f3.md</key>
@@ -144,20 +194,6 @@
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
 					<integer>120</integer>
-				</dict>
-			</dict>
-			<key>2017-03-23-f4.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>512437865.43218303</real>
-				<key>lastModification</key>
-				<real>512437865.43218303</real>
-				<key>version</key>
-				<dict>
-					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>145</integer>
 				</dict>
 			</dict>
 			<key>2017-03-23-f5.md</key>
@@ -210,14 +246,68 @@
 					<integer>148</integer>
 				</dict>
 			</dict>
-			<key>continuity, momentum, and energy equations.md</key>
+			<key>2017-04-01-c1.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>512411907.77468503</real>
+				<real>513974625.04109901</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>143</integer>
+					<integer>197</integer>
+				</dict>
+			</dict>
+			<key>2017-04-01-c2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>513974699.22289801</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>201</integer>
+				</dict>
+			</dict>
+			<key>2017-04-01-c3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>513974726.80602503</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>205</integer>
+				</dict>
+			</dict>
+			<key>2017-04-01-c4.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>513974761.09389102</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>209</integer>
+				</dict>
+			</dict>
+			<key>2017-04-01-c5.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>513974784.10499001</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>213</integer>
+				</dict>
+			</dict>
+			<key>continuity, momentum, and energy equations.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>513972987.03401899</real>
+				<key>lastModification</key>
+				<real>513972987.03401899</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>150</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -226,6 +316,36 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-04-01-c5.md</string>
+		</array>
+		<array>
+			<string>2017-04-01-c4.md</string>
+		</array>
+		<array>
+			<string>2017-04-01-c3.md</string>
+		</array>
+		<array>
+			<string>2017-04-01-c2.md</string>
+		</array>
+		<array>
+			<string>2017-04-01-c1.md</string>
+		</array>
+		<array>
+			<string>2017-02-07-book7.md</string>
+		</array>
+		<array>
+			<string>2017-02-06-book6.md</string>
+		</array>
+		<array>
+			<string>2017-02-05-book5.md</string>
+		</array>
+		<array>
+			<string>2017-02-04-book4.md</string>
+		</array>
+		<array>
+			<string>2017-02-03-book3.md</string>
+		</array>
 		<array>
 			<string>2017-03-23-f8.md</string>
 		</array>
@@ -237,13 +357,13 @@
 			<string>continuity, momentum, and energy equations.md</string>
 		</array>
 		<array>
-			<string>2017-02-14-c2.md</string>
+			<string>2017-02-14-intro5.md</string>
 		</array>
 		<array>
 			<string>2017-03-21-f1.md</string>
 		</array>
 		<array>
-			<string>2017-03-21-f2.md</string>
+			<string>2017-03-22-f2.md</string>
 		</array>
 		<array>
 			<string>2017-03-23-f6.md</string>
@@ -255,31 +375,28 @@
 			<string>2017-03-23-f3.md</string>
 		</array>
 		<array>
-			<string>2017-03-23-f4.md</string>
+			<string>2017-02-13-intro4.md</string>
 		</array>
 		<array>
-			<string>2017-02-14-c1.md</string>
+			<string>2017-01-19-summary.md</string>
 		</array>
 		<array>
-			<string>2017-01-20-summary.md</string>
+			<string>2017-01-21-exp1.md</string>
 		</array>
 		<array>
-			<string>2017-01-21-com1.md</string>
+			<string>2017-01-20-intro1.md</string>
 		</array>
 		<array>
-			<string>2017-01-21-com01.md</string>
+			<string>2017-01-22-exp2.md</string>
 		</array>
 		<array>
-			<string>2017-01-22-com2.md</string>
+			<string>2017-01-23-exp3.md</string>
 		</array>
 		<array>
-			<string>2017-01-23-com3.md</string>
+			<string>2017-02-11-intro2.md</string>
 		</array>
 		<array>
-			<string>2017-02-11-f.md</string>
-		</array>
-		<array>
-			<string>2017-02-12-q1.md</string>
+			<string>2017-02-12-intro3.md</string>
 		</array>
 		<array>
 			<string>2017-02-01-book1.md</string>
@@ -297,7 +414,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>149</integer>
+			<integer>214</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

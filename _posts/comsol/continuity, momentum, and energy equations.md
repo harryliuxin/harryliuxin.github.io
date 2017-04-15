@@ -1,1 +1,0 @@
-continuity, momentum, and energy equations.
