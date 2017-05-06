@@ -326,12 +326,25 @@
 					<integer>223</integer>
 				</dict>
 			</dict>
+			<key>@- 2017-05-04-dns2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515787906.10177201</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>239</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>512017041.986359</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>@- 2017-05-04-dns2.md</string>
+		</array>
 		<array>
 			<string>2017-03-24-intro6.md</string>
 		</array>
@@ -438,7 +451,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>236</integer>
+			<integer>240</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
