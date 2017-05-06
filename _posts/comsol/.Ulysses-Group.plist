@@ -246,14 +246,14 @@
 					<integer>148</integer>
 				</dict>
 			</dict>
-			<key>2017-03-24-intro.md</key>
+			<key>2017-03-24-intro6.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>515774044.42386502</real>
+				<real>515774063.75783598</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>233</integer>
+					<integer>235</integer>
 				</dict>
 			</dict>
 			<key>2017-04-01-c1.md</key>
@@ -333,7 +333,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-03-24-intro.md</string>
+			<string>2017-03-24-intro6.md</string>
 		</array>
 		<array>
 			<string>2017-05-04-dns.md</string>
@@ -438,7 +438,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>234</integer>
+			<integer>236</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
