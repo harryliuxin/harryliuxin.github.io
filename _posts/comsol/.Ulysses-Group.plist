@@ -266,6 +266,26 @@
 					<integer>235</integer>
 				</dict>
 			</dict>
+			<key>2017-03-25-intro7.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516071602.735618</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>257</integer>
+				</dict>
+			</dict>
+			<key>2017-03-26-intro8.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516071636.61391997</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>259</integer>
+				</dict>
+			</dict>
 			<key>2017-04-01-c1.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -362,6 +382,12 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-03-25-intro7.md</string>
+		</array>
+		<array>
+			<string>2017-03-26-intro8.md</string>
+		</array>
 		<array>
 			<string>2017-02-10-intro2.md</string>
 		</array>
@@ -477,7 +503,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>252</integer>
+			<integer>260</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
