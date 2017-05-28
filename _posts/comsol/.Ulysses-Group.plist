@@ -66,6 +66,46 @@
 					<integer>163</integer>
 				</dict>
 			</dict>
+			<key>2017-01-24-exp4.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517607742.29742801</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>301</integer>
+				</dict>
+			</dict>
+			<key>2017-01-25-exp5.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517619580.146451</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>305</integer>
+				</dict>
+			</dict>
+			<key>2017-01-26-exp6.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517619794.596928</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>309</integer>
+				</dict>
+			</dict>
+			<key>2017-01-27-exp7.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517619940.72874802</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>317</integer>
+				</dict>
+			</dict>
 			<key>2017-02-01-book1.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -433,6 +473,18 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>2017-01-27-exp7.md</string>
+		</array>
+		<array>
+			<string>2017-01-26-exp6.md</string>
+		</array>
+		<array>
+			<string>2017-01-25-exp5.md</string>
+		</array>
+		<array>
+			<string>2017-01-24-exp4.md</string>
+		</array>
+		<array>
 			<string>2017-01-20-intro2.md</string>
 		</array>
 		<array>
@@ -568,7 +620,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>296</integer>
+			<integer>318</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
