@@ -13,15 +13,9 @@
 	<body>
 
 	<!-- POST -->
-		<title>
-    {% if page.title %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% else %}
-      {{ site.title }} &middot; {{ site.subtitle }}
-    {% endif %}
-  		</title>
 
 		<ul class="posts">
+		<h1 class="post-title">{{ page.title }}</h1>
 		{% for post in site.posts %}
 			{% if post.category == "comsol" %}
 			<li>
@@ -42,8 +36,8 @@
 		-->
 
 		<!-- Footer -->
-			<footer id="footer" style="float:right">
-				<ul class="icons">
+			<footer id="footer" >
+				<ul class="icons" style="float:right">
 					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 					<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
