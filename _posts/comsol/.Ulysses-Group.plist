@@ -468,12 +468,16 @@
 			</dict>
 			<key>2017-05-25-intro12.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>517632171.844208</real>
 				<key>lastModification</key>
-				<real>517628975.86835301</real>
+				<real>517632171.844208</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>321</integer>
+					<integer>323</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -633,7 +637,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>322</integer>
+			<integer>323</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
