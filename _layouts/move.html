@@ -14,9 +14,14 @@
 
 		<!-- Header -->
 			<header id="header">
-				<h1>LiuXin</h1>
-				<p>梦想是做一个浪漫科研狗<br />
-				To be a romantic scientist, and start from <a href="http://liuxin.in">here</a>.</p>
+				{% for post in site.posts %}
+			{% if post.category == "comsol" %}
+			<li>
+				<a href="{{ post.url }}">{{ post.title }}</a>
+				<span> &raquo; {{ post.date | date: "%B %d, %Y" }}</span>
+			</li>
+			{% endif %}
+			{% endfor %}
 			</header>
 
 
