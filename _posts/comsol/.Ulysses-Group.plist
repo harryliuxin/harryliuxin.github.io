@@ -490,6 +490,30 @@
 					<integer>323</integer>
 				</dict>
 			</dict>
+			<key>2017-06-01-di1.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>518199747.957335</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>341</integer>
+				</dict>
+			</dict>
+			<key>无标题 - 2.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>518072860.05426002</real>
+				<key>lastModification</key>
+				<real>518072860.05426002</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>336</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>512017041.986359</real>
@@ -498,6 +522,12 @@
 	<array>
 		<array>
 			<string>2017-05-25-intro12.md</string>
+		</array>
+		<array>
+			<string>无标题 - 2.md</string>
+		</array>
+		<array>
+			<string>2017-06-01-di1.md</string>
 		</array>
 		<array>
 			<string>2017-03-31-intro.md</string>
@@ -650,7 +680,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>331</integer>
+			<integer>342</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
