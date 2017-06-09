@@ -476,18 +476,14 @@
 					<integer>285</integer>
 				</dict>
 			</dict>
-			<key>2017-05-25-intro12.md</key>
+			<key>2017-05-24-intro12 - 3.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>517632171.844208</real>
 				<key>lastModification</key>
-				<real>517632171.844208</real>
+				<real>518668012.079638</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>323</integer>
+					<integer>361</integer>
 				</dict>
 			</dict>
 			<key>2017-06-01-di1.md</key>
@@ -498,6 +494,26 @@
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
 					<integer>341</integer>
+				</dict>
+			</dict>
+			<key>2017-06-02-di2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>518582973.38652498</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>347</integer>
+				</dict>
+			</dict>
+			<key>2017-06-02-di3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>518583396.90307897</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>351</integer>
 				</dict>
 			</dict>
 			<key>无标题 - 2.md</key>
@@ -521,10 +537,16 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-05-25-intro12.md</string>
+			<string>无标题 - 2.md</string>
 		</array>
 		<array>
-			<string>无标题 - 2.md</string>
+			<string>2017-05-24-intro12 - 3.md</string>
+		</array>
+		<array>
+			<string>2017-06-02-di3.md</string>
+		</array>
+		<array>
+			<string>2017-06-02-di2.md</string>
 		</array>
 		<array>
 			<string>2017-06-01-di1.md</string>
@@ -680,7 +702,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>342</integer>
+			<integer>362</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
