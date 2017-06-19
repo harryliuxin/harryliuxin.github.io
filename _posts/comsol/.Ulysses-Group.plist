@@ -546,14 +546,34 @@
 					<integer>391</integer>
 				</dict>
 			</dict>
-			<key>2017-06-08-tp.md</key>
+			<key>2017-06-08-tf1.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>519516834.24362302</real>
+				<real>519526257.95295399</real>
 				<key>version</key>
 				<dict>
 					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-					<integer>393</integer>
+					<integer>405</integer>
+				</dict>
+			</dict>
+			<key>2017-06-09-tf2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>519526267.41516203</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>407</integer>
+				</dict>
+			</dict>
+			<key>2017-06-10-tf3.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>519526311.92474997</real>
+				<key>version</key>
+				<dict>
+					<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
+					<integer>411</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -563,7 +583,13 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-06-08-tp.md</string>
+			<string>2017-06-10-tf3.md</string>
+		</array>
+		<array>
+			<string>2017-06-08-tf1.md</string>
+		</array>
+		<array>
+			<string>2017-06-09-tf2.md</string>
 		</array>
 		<array>
 			<string>2017-06-07-intro14.md</string>
@@ -737,7 +763,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>572da3dbd8b601e9062c792d3dbe7d17969cc6ccddacc4eb32b17a0d312b7baa</key>
-			<integer>394</integer>
+			<integer>412</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
