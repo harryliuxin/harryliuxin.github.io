@@ -6,18 +6,6 @@ image: assets/images/pic02.jpg
 nav-menu: true
 ---
 
-<html>
-	<head>
-		<title>ai</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="/file/2ai/assets/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-	</head>
-	<body>
-
 <!-- Sidebar -->
 <section id="sidebar">
 				<div class="inner">
@@ -206,12 +194,9 @@ nav-menu: true
 
 <!-- Scripts -->
 <script src="/file/2ai/assets/js/jquery.min.js"></script>
-			<script src="/file/2ai/assets/js/jquery.scrollex.min.js"></script>
-			<script src="/file/2ai/assets/js/jquery.scrolly.min.js"></script>
-			<script src="/file/2ai/assets/js/skel.min.js"></script>
-			<script src="/file/2ai/assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="/file/2ai/assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="/file/2ai/assets/js/main.js"></script>
+<script src="/file/2ai/assets/js/jquery.scrollex.min.js"></script>
+<script src="/file/2ai/assets/js/jquery.scrolly.min.js"></script>
+<script src="/file/2ai/assets/js/skel.min.js"></script><script src="/file/2ai/assets/js/util.js"></script>
+<!--[if lte IE 8]><script src="/file/2ai/assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="/file/2ai/assets/js/main.js"></script>
 
-	</body>
-</html>
