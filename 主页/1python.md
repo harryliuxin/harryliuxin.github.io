@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 3cfd
 title: Python
 description: 人生苦短，我用Python
 image: assets/images/pic01.jpg
