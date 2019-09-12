@@ -3548,6 +3548,8 @@
 
 	#main {
 		background-color: #2a2f4a;
+		width: 60%;
+		margin: 0 auto;
 	}
 
 		#main > * {
